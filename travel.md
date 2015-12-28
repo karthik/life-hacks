@@ -20,19 +20,19 @@ It allows me to swap out the connector on my Macbook Air (or Pro) charger for ap
     - Con: It's a bit on the heavier side and takes almost overnight to fully recharge.
 
 ### __Sleep hack__  
-I do my best to beat jet lag by hacking my sleep (yes I realize this sound a bit douchey). The suggestions that follow are probably not appropriate for most people and would also make my doctor cringe.
+I do my best to beat jet lag by hacking my sleep (yes I realize this sound a bit douchey). The suggestions that follow are probably not appropriate for most people. Warning: Your mileage/metabolism will most certainly vary and I recommend speaking to your medical professional first. 
 
 a) **If you're landing before noon at your destination (TLDR: Sleep much of the plane ride)**  
 Eat a substantial meal at the airport. Try to avoid eating on the plane as much as possible.  
 Hop on the plane, listen to some amazing ambient electronic music till cruising altitude. Then switch to movie (because by then the pilot will stop interrupting your movie).   
 Then partway through movie, order some alcohol and pop an Ambien ™. 
 Wake up at before landing (after 6+ hours of deep sleep), have coffee, then eat a giant greasy breakfast upon landing. 
-This allows me to stay up till past 10pm at my destination and my cycle is reset when I fall asleep (might require another Ambien).
+This allows me to stay up till past 10pm at my destination and my cycle is reset when I fall asleep.
 
 b) **If landing at destination late afternoon to evening**:  
 There is no set recommendation here but don't sleep much on the plane. 
 Definitely nap for a couple of hours here and there but stay awake and watch as many bad movies as possible. Drink lightly, but not enough to put you to sleep.
-Then eat a light dinner at destination and take an Ambien ™ and get to bed at 10pm or after. You'll comfortably wake up at 6 and have a great day.
+Then eat a light dinner at destination and take an Ambien  and get to bed at 10pm or after. You'll comfortably wake up at 6 and have a great day.
 
 **Other useful sleep stuff**
 
