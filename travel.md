@@ -59,7 +59,7 @@ I have a Ziploc bag for a few countries I travel often where I keep loose change
 
 ### Sim cards
 
-Verizon's global plan is a total and complete scam. [Telestial](http://www.telestial.com/), which I keep as a backup works in most countries but is exorbitantly expensive. 
+Verizon's global plan is a total and complete scam. [Telestial](http://www.telestial.com/), which I keep as a backup (balance never expires) works in most countries but is exorbitantly expensive. 
 
 Always grab a local SIM card. Denmark, for e.g. is shockingly cheap. 
 
