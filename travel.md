@@ -37,7 +37,7 @@ Then eat a light dinner at destination and take an Ambien ™ and get to bed at 
 **Other useful sleep stuff**
 
 * [Ostrich pillow light](http://www.ostrichpillow.com/ostrich-pillow-light/) - _The larger one takes up too much space (but I keep that in my office). This is pretty much the best for tuning out the world._
-* [The Thunderspace app](http://thunderspace.me/) (also see Windy and Sunny)
+* [The Thunderspace app](http://thunderspace.me/) (also see [Windy](http://windy.fm/) and [Sunny](http://getsunnyapp.com/))
 * [A nice pair of in-ear monitors](http://www.earphonesolutions.com/westone-w50.html) - _Headphones are simply too bulky for travel._
 
 
