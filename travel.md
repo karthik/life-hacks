@@ -75,4 +75,4 @@ If you're traveling, especially to a conference, you're going to be speaking to 
 * [Hotel Tonight](https://www.hoteltonight.com/) - works for last minute deals on nice hotels the same day. 
 * [maps.me](http://maps.me/en/home) - Offline maps, including transit directions, for nearly any place in the world. 
 * iArrow - Helps me find my way back to things (losing a rental car is fairly disconcerting).
-* Loungebuddy - Find the nearest lounge in unfamiliar airports.
+* [Loungebuddy](http://www.loungebuddy.com/) - Find the nearest lounge in unfamiliar airports.
