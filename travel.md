@@ -4,7 +4,7 @@
 I travel a considerable amount every year and have developed various hacks to make my life easier. I figured I should document some of these so others may benefit.
 
 ### Travel gear
-For the last few years I traveled with nothing more than my Minaal  carry-on. It's the best piece of travel gear I've owned. I can comfortably pack enough for two weeks (+ laptop and other supplies). If I stay longer than two weeks, I often airbnb which means I have access to a washer and dryer. With a few packing cubes and essentials that stay in the bag, I can be ready for most trips in minutes.
+For the last few years I traveled with nothing more than my [Minaal  carry-on](http://www.minaal.com/products/minaal-carry-on-bag). It's the best piece of travel gear I've owned. I can comfortably pack [enough for two weeks](https://www.youtube.com/watch?v=m3J3nnRrsa8) (+ laptop and other supplies). If I stay longer than two weeks, I often airbnb which means I have access to a washer and dryer. With a few packing cubes and essentials that stay in the bag, I can be ready for most trips in minutes.
 
 ![](http://i.imgur.com/xNUpvIL.jpg)
 
@@ -25,8 +25,8 @@ I do my best to beat jet lag by hacking my sleep (yes I realize this sound a bit
 a) **If you're landing before noon at your destination (TLDR: Sleep much of the plane ride)**  
 Eat a substantial meal at the airport. Try to avoid eating on the plane as much as possible.  
 Hop on the plane, listen to some amazing ambient electronic music till cruising altitude. Then switch to movie (because by then the pilot will stop interrupting your movie).   
-Then watch a movie, order some alcohol and pop an Ambien ™. 
-Wake up at before landing, have coffee, then eat a giant greasy breakfast upon landing. 
+Then partway through movie, order some alcohol and pop an Ambien ™. 
+Wake up at before landing (after 6+ hours of deep sleep), have coffee, then eat a giant greasy breakfast upon landing. 
 This allows me to stay up till past 10pm at my destination and my cycle is reset when I fall asleep (might require another Ambien).
 
 b) **If landing at destination late afternoon to evening**:  
@@ -43,7 +43,9 @@ Then eat a light dinner at destination and take an Ambien ™ and get to bed at 
 
 ### __Wifi__  
 
-It's a god damned pain in the ass to connect your laptop, phone, tablet, kindle (I need to sync my place in books because I read on kindle and phone), other devices with a stupid new password or splash page. So get a router that all your devices already know. I strongly recommend [NetGear Trek](http://www.amazon.com/gp/product/B00HQ883T4). 
+It's a god damned pain in the ass to connect your laptop, phone, tablet, kindle (I need to sync my place in books because I read on kindle and phone), other devices with a stupidly long password or splash page. So get a router that all your devices already know. I strongly recommend [NetGear Trek](http://www.amazon.com/gp/product/B00HQ883T4). 
+
+![](http://core0.staticworld.net/images/article/2014/05/netgear_trek-100266044-large.png)
 
 a) Plug ethernet cable into your router, plug router into wall. DONE
 b) Plug router into wall. Connect to router and go through the splash page once. DONE.
