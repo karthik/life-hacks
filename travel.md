@@ -3,8 +3,17 @@
 
 I travel a considerable amount every year and have developed various hacks to make my life easier. I figured I should document some of these so others may benefit.
 
+### Travel gear
+For the last few years I traveled with nothing more than my Minaal  carry-on. It's the best piece of travel gear I've owned. I can comfortably pack enough for two weeks (+ laptop and other supplies). If I stay longer than two weeks, I often airbnb which means I have access to a washer and dryer. With a few packing cubes and essentials that stay in the bag, I can be ready for most trips in minutes.
+
+![](http://i.imgur.com/xNUpvIL.jpg)
+
 ### __Power__  
-I usually tend to avoid power adapters since they fit in sockets very loosely and generally fall out (especially European sockets). Instead I prefer [Twelve South's PlugBug World](https://www.twelvesouth.com/product/plugbug-world). It allows me to swap out the connector on my Macbook Air (or Pro) charger for appropriate country. Additionally it comes with a USB port that charges phones and tablets much faster than the standard `5`v connector that Apple provides. Also, it saves the need for carrying around additional chargers.
+I usually tend to avoid power adapters since they fit in sockets very loosely and generally fall out (especially European sockets). Instead I prefer [Twelve South's PlugBug World](https://www.twelvesouth.com/product/plugbug-world). 
+
+![](http://i.imgur.com/QdDbP8u.jpg)
+
+It allows me to swap out the connector on my Macbook Air (or Pro) charger for appropriate country. Additionally it comes with a USB port that charges phones and tablets much faster than the standard `5`v connector that Apple provides. Also, it saves the need for carrying around additional chargers.
 * [Battery case for my iPhone](http://www.amazon.com/gp/product/B00QG4YYWY)
 * [Hyperjuice External battery](http://www.hypershop.com/products/hyperjuice-plug-18000mah-usb-battery-pack)
     - Pro: Provides multiple recharges
@@ -13,18 +22,23 @@ I usually tend to avoid power adapters since they fit in sockets very loosely an
 ### __Sleep hack__  
 I do my best to beat jet lag by hacking my sleep (yes I realize this sound a bit douchey). The suggestions that follow are probably not appropriate for most people and would also make my doctor cringe.
 
-a) If you're landing before noon at your destination (TLDR: Sleep much of the plane ride)  
+a) **If you're landing before noon at your destination (TLDR: Sleep much of the plane ride)**  
 Eat a substantial meal at the airport. Try to avoid eating on the plane as much as possible.  
 Hop on the plane, listen to some amazing ambient electronic music till cruising altitude. Then switch to movie (because by then the pilot will stop interrupting your movie).   
 Then watch a movie, order some alcohol and pop an Ambien ™. 
 Wake up at before landing, have coffee, then eat a giant greasy breakfast upon landing. 
 This allows me to stay up till past 10pm at my destination and my cycle is reset when I fall asleep (might require another Ambien).
 
-b) If landing at destination late afternoon to evening:  
+b) **If landing at destination late afternoon to evening**:  
 There is no set recommendation here but don't sleep much on the plane. 
 Definitely nap for a couple of hours here and there but stay awake and watch as many bad movies as possible. Drink lightly, but not enough to put you to sleep.
 Then eat a light dinner at destination and take an Ambien ™ and get to bed at 10pm or after. You'll comfortably wake up at 6 and have a great day.
 
+**Other useful sleep stuff**
+
+* [Ostrich pillow light](http://www.ostrichpillow.com/ostrich-pillow-light/) - _The larger one takes up too much space (but I keep that in my office). This is pretty much the best for tuning out the world._
+* [The Thunderspace app](http://thunderspace.me/) (also see Windy and Sunny)
+* [A nice pair of in-ear monitors](http://www.earphonesolutions.com/westone-w50.html) - _Headphones are simply too bulky for travel._
 
 
 ### __Wifi__  
@@ -50,8 +64,7 @@ Always grab something local. Denmark, for e.g. is shockingly cheap.
 If you're traveling, especially to a conference, you're going to be speaking to a lot of people. It's very easy to lose your voice on day 2. I've found [Fisherman's Friend](http://www.amazon.com/gp/product/B000UD4YSQ) to be the best defense against that. You can buy a large box on Amazon for pretty cheap and leave little packs all over your carry on and day packs. These are strong and take a long time to melt and keep your throat well coated.
 
 ![](https://farm1.staticflickr.com/586/21780360192_c8eae9754a_k.jpg)
-
-* Apps
+### Apps
 
 * TripIt Pro (besides the standard features, I always find an alternate flight change planes as soon as I know of a delay. TripIt also tells me about gates long before most airlines update airport displays.
 * [Tube Map Live](http://tubemaplive.co/) and Tube - I've never seen anything more Hogwartsy. All tube train locations in real time.
