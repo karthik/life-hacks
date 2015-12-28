@@ -59,7 +59,7 @@ I have a Ziploc bag per country where I keep loose change, cash, transit card th
 
 Verizon's global plan is a total and complete scam. [Telestial](http://www.telestial.com/), which I keep as a backup works in most countries but is exorbitantly expensive. 
 
-Always grab something local. Denmark, for e.g. is shockingly cheap. 
+Always grab a local SIM card. Denmark, for e.g. is shockingly cheap. 
 
 ### __Keeping your voice__  
 
@@ -70,7 +70,7 @@ If you're traveling, especially to a conference, you're going to be speaking to 
 
 * TripIt Pro (besides the standard features, I always find an alternate flight change planes as soon as I know of a delay. TripIt also tells me about gates long before most airlines update airport displays.
 * [Tube Map Live](http://tubemaplive.co/) and Tube - I've never seen anything more Hogwartsy. All tube train locations in real time.
-* Hotel Tonight - works for last minute deals on nice hotels the same day. 
-* maps.me - Offline maps, including transit directions, for nearly any place in the world. 
+* [Hotel Tonight](https://www.hoteltonight.com/) - works for last minute deals on nice hotels the same day. 
+* [maps.me](http://maps.me/en/home) - Offline maps, including transit directions, for nearly any place in the world. 
 * iArrow - Helps me find my way back to things (losing a rental car is fairly disconcerting).
 * Loungebuddy - Find the nearest lounge in unfamiliar airports.
