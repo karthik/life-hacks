@@ -1,4 +1,4 @@
 
-# Some notes about the way I do things
+# Just notes on random things I do
 
 * [Travel tips](travel.md)
