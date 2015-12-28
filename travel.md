@@ -55,7 +55,7 @@ b) Plug router into wall. Connect to router and go through the splash page once.
 
 ### Ziploc for extra cash, transit cards, power tips
 
-I have a Ziploc bag per country where I keep loose change, cash, transit card that I can just grab for every trip back. 
+I have a Ziploc bag for a few countries I travel often where I keep loose change, cash, transit card that I can just grab for every trip back. 
 
 ### Sim cards
 
