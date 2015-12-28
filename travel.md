@@ -49,7 +49,7 @@ It's a god damned pain in the ass to connect your laptop, phone, tablet, kindle 
 
 This extremely useful device has a built in plug (or use USB power), can take Ethernet or connect to wifi and is fairly small.
 
-a) Plug ethernet cable into your router, plug router into wall. DONE
+a) Plug ethernet cable into your router, plug router into wall. DONE  
 b) Plug router into wall. Connect to router and go through the splash page once. DONE.
 
 
