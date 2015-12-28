@@ -15,7 +15,7 @@ I usually tend to avoid power adapters since they fit in sockets very loosely an
 
 It allows me to swap out the connector on my Macbook Air (or Pro) charger for appropriate country. Additionally it comes with a USB port that charges phones and tablets much faster than the standard `5`v connector that Apple provides. Also, it saves the need for carrying around additional chargers.
 * [Battery case for my iPhone](http://www.amazon.com/gp/product/B00QG4YYWY)
-* [Hyperjuice External battery](http://www.hypershop.com/products/hyperjuice-plug-18000mah-usb-battery-pack)
+* [Hyperjuice external battery](http://www.hypershop.com/products/hyperjuice-plug-18000mah-usb-battery-pack)
     - Pro: Provides multiple recharges
     - Con: It's a bit on the heavier side and takes almost overnight to fully recharge.
 
