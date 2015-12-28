@@ -70,7 +70,7 @@ If you're traveling, especially to a conference, you're going to be speaking to 
 ![](https://farm1.staticflickr.com/586/21780360192_c8eae9754a_k.jpg)
 ### Apps
 
-* TripIt Pro (besides the standard features, I always find an alternate flight change planes as soon as I know of a delay. TripIt also tells me about gates long before most airlines update airport displays.
+* TripIt Pro (besides the standard features, I always find an alternate flight as soon as I know of a delay. TripIt also tells me about gates long before most airlines update airport displays.
 * [Tube Map Live](http://tubemaplive.co/) and Tube - I've never seen anything more Hogwartsy. All tube train locations in real time.
 * [Hotel Tonight](https://www.hoteltonight.com/) - works for last minute deals on nice hotels the same day. 
 * [maps.me](http://maps.me/en/home) - Offline maps, including transit directions, for nearly any place in the world. 
