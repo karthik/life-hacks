@@ -52,6 +52,8 @@ This extremely useful device has a built in plug (or use USB power), can take Et
 a) Plug ethernet cable into your router, plug router into wall. DONE  
 b) Plug router into wall. Connect to router and go through the splash page once. DONE.
 
+For bonus points, use your home wifi credentials for the router, so you don't have to reauthenticate your devices.
+
 
 ### Ziploc for extra cash, transit cards, power tips
 
