@@ -34,13 +34,15 @@ There is no set recommendation here but don't sleep much on the plane. Definitel
 **Other useful sleep stuff**
 
 * [Ostrich pillow light](http://www.ostrichpillow.com/ostrich-pillow-light/) - _The larger one takes up too much space (but I keep that in my office). This is pretty much the best for tuning out the world._
-* [The Thunderspace app](http://thunderspace.me/) (also see [Windy](http://windy.fm/) and [Sunny](http://getsunnyapp.com/))
+* [The Thunderspace app](http://thunderspace.me/) (also see [Windy](http://windy.fm/), [Sunny](http://getsunnyapp.com/), and [Muji to Relax](https://itunes.apple.com/us/app/muji-to-relax/id893570078?mt=8))
 * [A nice pair of in-ear monitors](http://www.earphonesolutions.com/westone-w50.html) - _Headphones are simply too bulky for travel._
 
 
 ### __Wifi__  
 
-It's a god damned pain in the ass to connect your laptop, phone, tablet, kindle (I need to sync my place in books because I read on kindle and phone), other devices with a stupidly long password or splash page. So get a router that all your devices already know. I strongly recommend [NetGear Trek](http://www.amazon.com/gp/product/B00HQ883T4). 
+It's a god damned pain in the ass to connect your laptop, phone, tablet, kindle (I need to sync my place in books because I switch between my kindle and phone frequently), other devices with a stupidly long password or a splash page. So get a router that all your devices already know. I strongly recommend [NetGear Trek](http://www.amazon.com/gp/product/B00HQ883T4). 
+
+I also own a [TBMAX router](http://www.amazon.com/gp/product/B00PNJRDT4). It's much more compact but powers only off of USB (it's easy to connect to a iPhone power brick), but has the downside of not being able to navigate splash pages.
 
 ![](http://core0.staticworld.net/images/article/2014/05/netgear_trek-100266044-large.png)
 
