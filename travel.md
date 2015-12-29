@@ -42,7 +42,6 @@ There is no set recommendation here but don't sleep much on the plane. Definitel
 
 It's a god damned pain in the ass to connect your laptop, phone, tablet, kindle (I need to sync my place in books because I switch between my kindle and phone frequently), other devices with a stupidly long password or a splash page. So get a router that all your devices already know. I strongly recommend [NetGear Trek](http://www.amazon.com/gp/product/B00HQ883T4). 
 
-I also own a [TBMAX router](http://www.amazon.com/gp/product/B00PNJRDT4). It's much more compact but powers only off of USB (it's easy to connect to a iPhone power brick), but has the downside of not being able to navigate splash pages.
 
 ![](http://core0.staticworld.net/images/article/2014/05/netgear_trek-100266044-large.png)
 
@@ -53,6 +52,7 @@ b) Plug router into wall. Connect to router and go through the splash page once.
 
 For bonus points, use your home wifi credentials for the router, so you don't have to reauthenticate your devices.
 
+I also own a [TBMAX router](http://www.amazon.com/gp/product/B00PNJRDT4). It's much more compact but powers only off of USB (it's easy to connect to a iPhone power brick), but has the downside of not being able to navigate splash pages.
 
 ### Ziploc for extra cash, transit cards, power tips
 
