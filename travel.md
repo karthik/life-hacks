@@ -20,7 +20,7 @@ It allows me to swap out the connector on my Macbook Air (or Pro) charger for ap
     - Con: It's a bit on the heavier side and takes almost overnight to fully recharge.
 - [A USB condom](http://www.amazon.com/PortaPow-Charge-Block-Adaptor-SmartCharge/dp/B00T0DW3F8) - Most charging outlets, especially rental cars/airports can easily download data without any warning. Attach one of these to prevent data transfer.
 
-### __Sleep hack__  
+### __Sleep__  
 I do my best to beat jet lag by hacking my sleep (yes I realize this sound a bit douchey). The suggestions that follow are probably not appropriate for most people. Warning: Your mileage/metabolism will most certainly vary and I recommend speaking to your medical professional first. 
 
 a) **If you're landing before noon at your destination (TLDR: Sleep much of the plane ride)**  
