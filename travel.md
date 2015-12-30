@@ -73,7 +73,7 @@ If you're traveling, especially to a conference, you're going to be speaking to 
 
 * [TripIt Pro](https://www.tripit.com/pro) (besides the standard features, I always find an alternate flight [same or different airline, including how many/what seats are available] as soon as I know of a delay. TripIt also tells me about gates long before most airlines update airport displays).
 * [Tube Map Live](http://tubemaplive.co/) and [Tube tracker](https://itunes.apple.com/us/app/london-tube-tracker/id441139371?mt=8) - I've never seen anything more Hogwartsy. All tube train locations in real time.
-* [Hotel Tonight](https://www.hoteltonight.com/) - works for last minute deals on nice hotels the same day. 
+* [Hotel Tonight](https://www.hoteltonight.com/) - works for last minute deals on nice hotels the same day/week. Using my code `KRAM12` gives us both $25 off. 
 * [maps.me](http://maps.me/en/home) - Free offline maps, including transit directions, for nearly any place in the world. _Navigating rural Norway without cell service has never been more fun._
 * [iArrow](http://iarw.me/) - Helps me find my way back to things (losing a rental car or your tent is fairly disconcerting).
 * [Loungebuddy](http://www.loungebuddy.com/) - Find the nearest lounge in unfamiliar airports.
