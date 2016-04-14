@@ -4,7 +4,7 @@
 I travel a considerable amount every year and have developed various hacks to make my life easier. I figured I should document some of these so others may benefit.
 
 ### Travel gear
-For the last few years I've traveled with nothing more than my [Minaal  carry-on](http://www.minaal.com/products/minaal-carry-on-bag). It's the best piece of travel gear I've owned. I can comfortably pack [enough for two weeks](https://www.youtube.com/watch?v=m3J3nnRrsa8) (+ laptop and other supplies). If I stay longer than two weeks, I often airbnb which means I have access to a washer and dryer. With a few packing cubes and essentials that stay in the bag, I can be ready for most trips in minutes.
+For the last few years I've traveled with nothing more than my [Minaal  carry-on](http://www.minaal.com/products/minaal-carry-on-bag). It's the best piece of travel gear I've owned. I can comfortably pack [enough for two weeks](https://www.youtube.com/watch?v=m3J3nnRrsa8) (+ laptop and other supplies). If I stay longer than two weeks, I often airbnb which means I have access to a washer and dryer. With essentials that stay in the bag, I can be ready for most trips in minutes using a few packing cubes.
 
 ![](http://i.imgur.com/xNUpvIL.jpg)
 
@@ -21,12 +21,13 @@ It allows me to swap out the connector on my Macbook Air (or Pro) charger for ap
 - [A USB condom](http://www.amazon.com/PortaPow-Charge-Block-Adaptor-SmartCharge/dp/B00T0DW3F8) - Most charging outlets, especially rental cars/airports can easily download data without any warning. Attach one of these to prevent data transfer.
 
 ### __Sleep__  
-I do my best to beat jet lag by hacking my sleep (yes I realize this sound a bit douchey). The suggestions that follow are probably not appropriate for most people. Warning: Your mileage/metabolism will most certainly vary and I recommend speaking to your medical professional first. 
+I do my best to minimize jet lag by hacking my sleep (yes I realize this sound a bit douchey). The suggestions that follow are probably not appropriate for most people. Warning: Your mileage/metabolism will most certainly vary and I recommend speaking to your medical professional first. 
 
 a) **If you're landing before noon at your destination (TLDR: Sleep much of the plane ride)**  
-Eat a substantial meal at the airport. Try to avoid eating on the plane as much as possible.  
-Hop on the plane, listen to some amazing ambient electronic music till cruising altitude then switch to movie (because by then the pilot will stop interrupting your movie). Then partway through movie, have a drink (optional) and pop an Ambien.  Wake up at before landing (after 6+ hours of deep sleep), have coffee, then eat a giant greasy breakfast at your destination.  
-This allows me to stay up till past 10pm at my destination and my cycle is reset when I fall asleep (might require another Ambien).
+- Eat a substantial meal at the airport. Try to avoid eating on the plane as much as possible.  
+- Read a book or watch a movie (or do anything else to stay awake for a couple of hours), then take an Ambien (you'll need a prescription from your doctor first), and fall asleep. Make sure there are at least 6 more hours on the flight so you'll have time to wake up _before_ landing. It really sucks to be grogy while clearing passport control.
+- Have coffee at your destination, then eat a giant greasy breakfast at your destination.  
+- This allows me to stay up till past 10pm at my destination and my cycle is reset when I fall asleep. I sometimes take half an Ambien the first night to make sure I stay asleep through the night. 
 
 b) **If landing at destination late afternoon to evening**:  
 There is no set recommendation here but don't sleep much on the plane. Definitely nap for a couple of hours here and there but stay awake and watch as many bad movies as possible. Drink lightly, but not enough to put you to sleep. Then eat a light dinner at destination and take an Ambien and get to bed at 10pm or after. You'll comfortably wake up at 6 and have a great day.
@@ -45,12 +46,12 @@ It's a god damned pain in the ass to connect your laptop, phone, tablet, kindle 
 
 ![](http://core0.staticworld.net/images/article/2014/05/netgear_trek-100266044-large.png)
 
-This extremely useful device has a built in plug (or use USB power), can take ethernet or connect to wifi and is fairly small.
+This amazing little device has a built in plug (or use USB power), can take ethernet or connect to wifi and is fairly small.
 
 a) Plug ethernet cable into your router, plug router into wall. DONE  
 b) Plug router into wall. Connect to router and go through the splash page once. DONE.
 
-For bonus points, use your home wifi credentials for the router, so you don't have to reauthenticate your devices.
+For bonus points, use your home wifi credentials for the router, so you don't have to re-authenticate your devices.
 
 I also own a [TBMAX router](http://www.amazon.com/gp/product/B00PNJRDT4). It's much more compact but powers only off of USB (it's easy to connect to a iPhone power brick), but has the downside of not being able to navigate splash pages.
 
