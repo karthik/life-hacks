@@ -9,7 +9,7 @@ For the last few years I've traveled with nothing more than my [Minaal  carry-on
 ![](http://i.imgur.com/xNUpvIL.jpg)
 
 ### __Power__  
-I tend to avoid power adapters since they fit in sockets very loosely and generally fall out (especially European sockets). Instead I prefer [Twelve South's PlugBug World](https://www.twelvesouth.com/product/plugbug-world). 
+Most world power adapters available on Amazon just suck. They are clunky or never seem to snugly fit in loose EU sockets. I've spent way too much time propping electronics up with books and kettles available in my airbnb. Sometimes I even pack a bit of masking tape to secure plugs in sockets. My preferred solution is [Twelve South's PlugBug World](https://www.twelvesouth.com/product/plugbug-world). 
 
 ![](http://i.imgur.com/QdDbP8u.jpg)
 
@@ -18,7 +18,7 @@ It allows me to swap out the connector on my Macbook Air (or Pro) charger for ap
 * [Hyperjuice external battery](http://www.hypershop.com/products/hyperjuice-plug-18000mah-usb-battery-pack)
     - Pro: Can charge two devices simultaneously and multiple times. Never be stuck at one of the few power outlets at a conference.
     - Con: It's a bit on the heavier side and takes almost overnight to fully recharge.
-- [A USB condom](http://www.amazon.com/PortaPow-Charge-Block-Adaptor-SmartCharge/dp/B00T0DW3F8) - Most charging outlets, especially rental cars/airports can easily download data without any warning. Attach one of these to prevent data transfer.
+- [A USB condom](http://www.amazon.com/PortaPow-Charge-Block-Adaptor-SmartCharge/dp/B00T0DW3F8) - Most charging outlets, especially rental cars/airports can easily download data (your contacts and photos for example) without any warning dialog. Attach one of these to prevent data transfer while allowing charging.
 
 ### __Sleep__  
 I do my best to minimize jet lag by hacking my sleep (yes I realize this sound a bit douchey). The suggestions that follow are probably not appropriate for most people. Warning: Your mileage/metabolism will most certainly vary and I recommend speaking to your medical professional first. 
@@ -37,6 +37,7 @@ There is no set recommendation here but don't sleep much on the plane. Definitel
 * [Ostrich pillow light](http://www.ostrichpillow.com/ostrich-pillow-light/) - _The larger one takes up too much space (but I keep that in my office). This is pretty much the best for tuning out the world._
 * [The Thunderspace app](http://thunderspace.me/) (also see [Windy](http://windy.fm/), [Sunny](http://getsunnyapp.com/), and [Muji to Relax](https://itunes.apple.com/us/app/muji-to-relax/id893570078?mt=8))
 * [A nice pair of in-ear monitors](http://www.earphonesolutions.com/westone-w50.html) - _Headphones are simply too bulky for travel._
+* If you want to be a bit OCD about minimizing jet lag, check out [jetlag rooster](http://www.jetlagrooster.com/) for a sleep plan before/after your travel.
 
 
 ### __Wifi__  
@@ -51,8 +52,6 @@ This amazing little device has a built in plug (or use USB power), can take ethe
 a) Plug ethernet cable into your router, plug router into wall. DONE  
 b) Plug router into wall. Connect to router and go through the splash page once. DONE.
 
-For bonus points, use your home wifi credentials for the router, so you don't have to re-authenticate your devices.
-
 I also own a [TBMAX router](http://www.amazon.com/gp/product/B00PNJRDT4). It's much more compact but powers only off of USB (it's easy to connect to a iPhone power brick), but has the downside of not being able to navigate splash pages.
 
 ### Ziploc for extra cash, transit cards, power tips
@@ -63,7 +62,7 @@ I have a Ziploc bag for a few countries I travel often where I keep loose change
 
 Verizon's global plan is a total and complete scam. [Telestial](http://www.telestial.com/), which I keep as a backup (balance never expires) works in most countries but is exorbitantly expensive. 
 
-Always grab a local SIM card. Denmark, for e.g. is shockingly cheap. 
+Always grab a local SIM card where possible. Denmark, for e.g. is shockingly cheap. 
 
 ### __Keeping your voice__  
 
