@@ -4,7 +4,7 @@
 I travel a considerable amount every year and have developed various hacks to make my life easier. I figured I should document some of these so others may benefit.
 
 ### Travel gear
-For the last few years I've traveled with nothing more than my [Minaal  carry-on](http://www.minaal.com/products/minaal-carry-on-bag). It's the best piece of travel gear I've owned. I can comfortably pack [enough for two weeks](https://www.youtube.com/watch?v=m3J3nnRrsa8) (+ laptop and other supplies). If I stay longer than two weeks, I often airbnb which means I have access to a washer and dryer. With essentials that stay in the bag, I can be ready for most trips in minutes using a few packing cubes.
+For the last few years I've traveled with nothing more than my [Minaal  carry-on](http://www.minaal.com/products/minaal-carry-on-bag). It's the best piece of travel gear I've owned. I can comfortably pack [enough for two weeks](https://www.youtube.com/watch?v=m3J3nnRrsa8) (+ laptop and other supplies). If I stay longer than two weeks, I often airbnb which means I have access to a washer and dryer. With essentials that stay in the bag, I can be ready for most trips in minutes using a few packing cubes. I've traveled over 200k miles the last couple of years with nothing more than my Minaal. I've recently also started carrying their smaller version (the [Minaal daily](https://www.minaal.com/collections/your-future-gear/products/daily-bag)) as my day pack at my destination.
 
 ![](http://i.imgur.com/xNUpvIL.jpg)
 
