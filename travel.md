@@ -26,7 +26,7 @@ I do my best to minimize jet lag by hacking my sleep (yes I realize this sound a
 a) **If you're landing before noon at your destination (TLDR: Sleep much of the plane ride)**  
 - Eat a substantial meal at the airport. Try to avoid eating on the plane as much as possible.  
 - Read a book or watch a movie (or do anything else to stay awake for a couple of hours), then take an Ambien (you'll need a prescription from your doctor first), and fall asleep. Make sure there are at least 6 more hours on the flight so you'll have time to wake up _before_ landing. It really sucks to be grogy while clearing passport control.
-- Have coffee at your destination, then eat a giant greasy breakfast at your destination.  
+- Have coffee at your destination, then eat a giant greasy breakfast.  
 - This allows me to stay up till past 10pm at my destination and my cycle is reset when I fall asleep. I sometimes take half an Ambien the first night to make sure I stay asleep through the night. 
 
 b) **If landing at destination late afternoon to evening**:  
