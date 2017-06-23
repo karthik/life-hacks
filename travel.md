@@ -62,7 +62,7 @@ I have a Ziploc bag for a few countries I travel often where I keep loose change
 
 Verizon's global plan is a total and complete scam. [Telestial](http://www.telestial.com/), which I keep as a backup (balance never expires) works in most countries but is exorbitantly expensive. 
 
-Always grab a local SIM card where possible. Most local sims are shockingly cheap. 
+Always grab a local SIM card where possible. Most local sims are shockingly cheap. As of June 2017 [roaming between EU countries](https://techcrunch.com/2017/06/15/europe-mostly-ends-mobile-roaming-fees-from-today/) is free of charge, so you can use a single sim for traveling within Europe.
 
 ### __Keeping your voice__  
 
