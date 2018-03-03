@@ -6,10 +6,12 @@ I travel a considerable amount every year and have developed various hacks to ma
 ### Travel gear
 For the last few years I've traveled with nothing more than my [Minaal  carry-on](http://www.minaal.com/products/minaal-carry-on-bag). It's the best piece of travel gear I've owned. I can comfortably pack [enough for two weeks](https://www.youtube.com/watch?v=m3J3nnRrsa8) (+ laptop and other supplies). If I stay longer than two weeks, I often airbnb which means I have access to a washer and dryer. With essentials that stay in the bag, I can be ready for most trips in minutes using a few packing cubes. I've traveled over 200k miles the last couple of years with nothing more than my Minaal. I've recently also started carrying their smaller version (the [Minaal daily](https://www.minaal.com/collections/your-future-gear/products/daily-bag)) as my day pack at my destination.
 
-![](http://i.imgur.com/xNUpvIL.jpg)
+![](https://i.imgur.com/Q5KLkDL.jpg)
 
 ### __Power__  
 Most world power adapters available on Amazon just suck. They are clunky or never seem to snugly fit in loose EU sockets. I've spent way too much time propping electronics up with books and kettles available in my airbnb. Sometimes I even pack a bit of masking tape to secure plugs in sockets. My preferred solution is [Twelve South's PlugBug World](https://www.twelvesouth.com/product/plugbug-world). 
+
+Another important hack is to pack a small roll of masking tape. No matter what adapter you have, your adapter will never sit snugly in an international socket. How many times have you propped up kettles, room service menus, coffee table books in your airbnb just to keep the plug from falling out? Masking tape holds everything in place nicely and is easy to clean up.
 
 ![](http://i.imgur.com/QdDbP8u.jpg)
 
@@ -30,7 +32,7 @@ a) **If you're landing before noon at your destination (TLDR: Sleep much of the 
 - This allows me to stay up till past 10pm at my destination and my cycle is reset when I fall asleep. I sometimes take half an Ambien the first night to make sure I stay asleep through the night. 
 
 b) **If landing at destination late afternoon to evening**:  
-There is no set recommendation here but don't sleep much on the plane. Definitely nap for a couple of hours here and there but stay awake and watch as many bad movies as possible. Drink lightly, but not enough to put you to sleep. Then eat a light dinner at destination and take an Ambien and get to bed at 10pm or after. You'll comfortably wake up at 6 and have a great day.
+There is no set recommendation here but don't sleep much on the plane. Definitely nap for a couple of hours here and there but stay awake and watch as many bad movies as possible. Limit or avoid alcohol. Then eat a light dinner at destination and take an Ambien and get to bed at 10pm or after. You'll comfortably wake up at 6 and have a great day.
 
 **Other useful sleep stuff**
 
@@ -42,7 +44,7 @@ There is no set recommendation here but don't sleep much on the plane. Definitel
 
 ### __Wifi__  
 
-It's a god damned pain in the ass to connect your laptop, phone, tablet, kindle (I need to sync my place in books because I switch between my kindle and phone frequently), other devices with a stupidly long password or a splash page. So get a router that all your devices already know. I strongly recommend [NetGear Trek](http://www.amazon.com/gp/product/B00HQ883T4). 
+It's a god damned pain in the ass to connect your laptop, phone, tablet, Kindle (especially if you need to sync my place in books when you switch between my kindle and phone frequently), other devices with a stupidly long password or a splash page. So get a router that all your devices already know. I strongly recommend [NetGear Trek](http://www.amazon.com/gp/product/B00HQ883T4). 
 
 
 ![](http://core0.staticworld.net/images/article/2014/05/netgear_trek-100266044-large.png)
@@ -50,6 +52,7 @@ It's a god damned pain in the ass to connect your laptop, phone, tablet, kindle 
 This amazing little device has a built in plug (or use USB power), can take ethernet or connect to wifi and is fairly small.
 
 a) Plug ethernet cable into your router, plug router into wall. DONE  
+OR
 b) Plug router into wall. Connect to router and go through the splash page once. DONE.
 
 I also own a [TBMAX router](http://www.amazon.com/gp/product/B00PNJRDT4). It's much more compact but powers only off of USB (it's easy to connect to a iPhone power brick), but has the downside of not being able to navigate splash pages.
@@ -68,7 +71,9 @@ Always grab a local SIM card where possible. Most local sims are shockingly chea
 
 If you're traveling, especially to a conference, you're going to be speaking to a lot of people. It's very easy to lose your voice on day 2. I've found [Fisherman's Friend](http://www.amazon.com/gp/product/B000UD4YSQ) to be the best defense against that. You can buy a large box on Amazon for pretty cheap and leave little packs all over your carry on and day packs. These are strong and take a long time to melt and keep your throat well coated.
 
-![](https://farm1.staticflickr.com/586/21780360192_c8eae9754a_k.jpg)
+![](https://i.imgur.com/42Vrxp4.png)
+
+
 ### Apps
 
 * [TripIt Pro](https://www.tripit.com/pro) (besides the standard features, I always find an alternate flight [same or different airline, including how many/what seats are available] as soon as I know of a delay. TripIt also tells me about gates long before most airlines update airport displays).
