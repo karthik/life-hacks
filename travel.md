@@ -11,16 +11,17 @@ For the last few years I've traveled with nothing more than my [Minaal  carry-on
 ### __Power__  
 Most world power adapters available on Amazon just suck. They are clunky or never seem to snugly fit in loose EU sockets. I've spent way too much time propping electronics up with books and kettles available in my airbnb. Sometimes I even pack a bit of masking tape to secure plugs in sockets. My preferred solution is [Twelve South's PlugBug World](https://www.twelvesouth.com/product/plugbug-world). 
 
-Another important hack is to pack a small roll of masking tape. No matter what adapter you have, your adapter will never sit snugly in an international socket. How many times have you propped up kettles, room service menus, coffee table books in your airbnb just to keep the plug from falling out? Masking tape holds everything in place nicely and is easy to clean up.
+
 
 ![](http://i.imgur.com/QdDbP8u.jpg)
 
 It allows me to swap out the connector on my Macbook Air (or Pro) charger for appropriate country. Additionally it comes with a USB port that charges phones and tablets much faster than the standard `5`v connector that Apple provides. Also, it saves the need for carrying around additional chargers.
-* [Battery case for my iPhone](http://www.amazon.com/gp/product/B00QG4YYWY) _Keeps my phone at 100% till past dinner even with heavy GPS/camera use._
-* [Hyperjuice external battery](http://www.hypershop.com/products/hyperjuice-plug-18000mah-usb-battery-pack)
+
+* [Anker PowerCore+ 26800](https://www.amazon.com/gp/product/B01K6TA748/)
     - Pro: Can charge two devices simultaneously and multiple times. Never be stuck at one of the few power outlets at a conference.
     - Con: It's a bit on the heavier side and takes almost overnight to fully recharge.
 - [A USB condom](http://www.amazon.com/PortaPow-Charge-Block-Adaptor-SmartCharge/dp/B00T0DW3F8) - Most charging outlets, especially rental cars/airports can easily download data (your contacts and photos for example) without any warning dialog. Attach one of these to prevent data transfer while allowing charging.
+- Masking tape: Another important hack is to pack a small roll of masking tape. No matter what adapter you have, it will never sit snugly in an international socket. How many times have you propped up kettles, room service menus, coffee table books in your airbnb just to keep the plug from falling out? Masking tape holds everything in place nicely and is easy to clean up.
 
 ### __Sleep__  
 I do my best to minimize jet lag by hacking my sleep (yes I realize this sound a bit douchey). The suggestions that follow are probably not appropriate for most people. Warning: Your mileage/metabolism will most certainly vary and I recommend speaking to your medical professional first. 
