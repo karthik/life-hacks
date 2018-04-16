@@ -74,11 +74,15 @@ If you're traveling, especially to a conference, you're going to be speaking to 
 
 ![](https://i.imgur.com/42Vrxp4.png)
 
+**Misc first aid**
+
+I keep a small travel first aid kit (from REI) in my travel bag at all times. I also keep a pack of [unit dose packs](https://www.amazon.com/gp/product/B0093PBOI0/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1) for 5 most commonly needed medications and update them as needed. 
+
 
 ### Apps
 
 * [TripIt Pro](https://www.tripit.com/pro) (besides the standard features, I always find an alternate flight [same or different airline, including how many/what seats are available] as soon as I know of a delay. TripIt also tells me about gates long before most airlines update airport displays).
-* [Tube Map Live](http://tubemaplive.co/) and [Tube tracker](https://itunes.apple.com/us/app/london-tube-tracker/id441139371?mt=8) - I've never seen anything more Hogwartsy. All tube train locations in real time.
+* [Tube Map Live](http://tubemaplive.co/) and [Tube tracker](https://itunes.apple.com/us/app/london-tube-tracker/id441139371?mt=8) - I've never seen anything more like the Marauder's pap. All tube train locations in real time.
 * [Hotel Tonight](https://www.hoteltonight.com/) - works for last minute deals on nice hotels the same day/week. Using my code `KRAM12` gives us both $25 off. 
 * [maps.me](http://maps.me/en/home) - Free offline maps, including transit directions, for nearly any place in the world. _Navigating rural Norway without cell service has never been more fun._
 * [iArrow](http://iarw.me/) - Helps me find my way back to things (losing a rental car or your tent is fairly disconcerting).
