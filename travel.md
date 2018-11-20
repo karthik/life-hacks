@@ -39,22 +39,24 @@ There is no set recommendation here but don't sleep much on the plane. Definitel
 
 * [Ostrich pillow light](http://www.ostrichpillow.com/ostrich-pillow-light/) - _The larger one takes up too much space (but I keep that in my office). This is pretty much the best for tuning out the world._
 * [The Thunderspace app](http://thunderspace.me/) (also see [Windy](http://windy.fm/), [Sunny](http://getsunnyapp.com/), and [Muji to Relax](https://itunes.apple.com/us/app/muji-to-relax/id893570078?mt=8))
-* [A nice pair of in-ear monitors](http://www.earphonesolutions.com/westone-w50.html) - _Headphones are simply too bulky for travel._
+* [A nice pair of in-ear monitors](https://www.earphonesolutions.com/westone-um-pro-10-earphones.html) - _Headphones are simply too bulky for travel._
 * If you want to be a bit OCD about minimizing jet lag, check out [jetlag rooster](http://www.jetlagrooster.com/) for a sleep plan before/after your travel.
 
 
 ### __Wifi__  
 
-It's a god damned pain in the ass to connect your laptop, phone, tablet, Kindle (especially if you need to sync my place in books when you switch between my kindle and phone frequently), other devices with a stupidly long password or a splash page. So get a router that all your devices already know. I strongly recommend [NetGear Trek](http://www.amazon.com/gp/product/B00HQ883T4). 
+Hotels rarely have a simple wifi setup. It sucks to go through a splash page every few hours and on every device. Make your life easier by bringing your own router that all your devices recognize and instantly connect to. 
+I recommend [NetGear Trek](http://www.amazon.com/gp/product/B00HQ883T4). 
 
 
 ![](http://core0.staticworld.net/images/article/2014/05/netgear_trek-100266044-large.png)
 
 This amazing little device has a built in plug (or use USB power), can take ethernet or connect to wifi and is fairly small.
 
-a) Plug ethernet cable into your router, plug router into wall. DONE  
+a) Plug ethernet cable into your router, plug router into wall. All your devices are instantly connected  
 OR
-b) Plug router into wall. Connect to router and go through the splash page once. DONE.
+b) Plug router into wall. Connect to router and go through the splash page once. The device keeps the connection alive so you don't have to do this every time you come back to the room.
+
 
 I also own a [TBMAX router](http://www.amazon.com/gp/product/B00PNJRDT4). It's much more compact but powers only off of USB (it's easy to connect to a iPhone power brick), but has the downside of not being able to navigate splash pages.
 
@@ -82,7 +84,6 @@ I keep a small travel first aid kit (from REI) in my travel bag at all times. I 
 ### Apps
 
 * [TripIt Pro](https://www.tripit.com/pro) (besides the standard features, I always find an alternate flight [same or different airline, including how many/what seats are available] as soon as I know of a delay. TripIt also tells me about gates long before most airlines update airport displays).
-* [Tube Map Live](http://tubemaplive.co/) and [Tube tracker](https://itunes.apple.com/us/app/london-tube-tracker/id441139371?mt=8) - I've never seen anything more like the Marauder's pap. All tube train locations in real time.
 * [Hotel Tonight](https://www.hoteltonight.com/) - works for last minute deals on nice hotels the same day/week. Using my code `KRAM12` gives us both $25 off. 
 * [maps.me](http://maps.me/en/home) - Free offline maps, including transit directions, for nearly any place in the world. _Navigating rural Norway without cell service has never been more fun._
 * [iArrow](http://iarw.me/) - Helps me find my way back to things (losing a rental car or your tent is fairly disconcerting).
