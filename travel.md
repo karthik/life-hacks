@@ -9,7 +9,7 @@ For the last few years I've traveled with nothing more than my [Minaal  carry-on
 ![](https://i.imgur.com/Q5KLkDL.jpg)
 
 ### Tech Dopp kit
-My tech dopp kit of choice is the [Peak Design Tech Pouch](https://www.peakdesign.com/products/tech-pouch/) | ([video review](https://youtu.be/TfF18w4qe_E?t=90))(I also love their camera gear!). This compact and practically designed bag holds my Plugbug, Anker phone brick, cables, adapters, dongles, Advil and other misc gear in a compact way. This also works easily with my camera straps in case i needed a small bag.
+My tech dopp kit of choice is the [Peak Design Tech Pouch](https://www.peakdesign.com/products/tech-pouch/) | ([video review](https://youtu.be/TfF18w4qe_E?t=151))(I also love their camera gear!). This compact and practically designed bag holds my Plugbug, Anker phone brick, cables, adapters, dongles, Advil and other misc gear in a compact way. This also works easily with my camera straps in case i needed a small bag.
 
 ### __Power__  
 Most world power adapters available on Amazon just suck. They are clunky or never seem to snugly fit in loose EU sockets. I've spent way too much time propping electronics up with books and kettles available in my airbnb. Sometimes I even pack a bit of masking tape to secure plugs in sockets. My preferred solution is [Twelve South's PlugBug World](https://www.twelvesouth.com/product/plugbug-world). 
