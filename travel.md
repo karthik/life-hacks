@@ -8,6 +8,9 @@ For the last few years I've traveled with nothing more than my [Minaal  carry-on
 
 ![](https://i.imgur.com/Q5KLkDL.jpg)
 
+### Tech Dopp kit
+My tech dopp kit of choice is the [Peak Design Tech Pouch](https://www.peakdesign.com/products/tech-pouch/) | ([video review](https://www.youtube.com/watch?v=TfF18w4qe_E))(I also love their camera gear!). This compact and practically designed bag holds my Plugbug, Anker phone brick, cables, adapters, dongles, Advil and other misc gear in a compact way. This also works easily with my camera straps in case i needed a small bag.
+
 ### __Power__  
 Most world power adapters available on Amazon just suck. They are clunky or never seem to snugly fit in loose EU sockets. I've spent way too much time propping electronics up with books and kettles available in my airbnb. Sometimes I even pack a bit of masking tape to secure plugs in sockets. My preferred solution is [Twelve South's PlugBug World](https://www.twelvesouth.com/product/plugbug-world). 
 
@@ -17,7 +20,12 @@ Most world power adapters available on Amazon just suck. They are clunky or neve
 
 It allows me to swap out the connector on my Macbook Air (or Pro) charger for appropriate country. Additionally it comes with a USB port that charges phones and tablets much faster than the standard `5`v connector that Apple provides. Also, it saves the need for carrying around additional chargers.
 
+
+* My primary power bank is the[ ]HyperJuice USB-C battery pack](https://www.hypershop.com/blogs/news/hyper-launches-hyperjuice-world-s-most-powerful-usb-c-battery-pack). 
+ - Pro: It has two usb-c ports and one USB-A port. It packs more power than the Anker PowerCore+ (below) and can charge my MacBook pro and two other devices at the same time. I can charge it back with my MacBook charger and the whole thing weights a lot less than Anker's largest power brick.
+
 * [Anker PowerCore+ 26800](https://www.amazon.com/gp/product/B01K6TA748/)
+This is my backup/secondary power brick.
     - Pro: Can charge two devices simultaneously and multiple times. Never be stuck at one of the few power outlets at a conference.
     - Con: It's a bit on the heavier side and takes almost overnight to fully recharge.
 - [A USB condom](http://www.amazon.com/PortaPow-Charge-Block-Adaptor-SmartCharge/dp/B00T0DW3F8) - Most charging outlets, especially rental cars/airports can easily download data (your contacts and photos for example) without any warning dialog. Attach one of these to prevent data transfer while allowing charging.
