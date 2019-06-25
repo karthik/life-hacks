@@ -21,7 +21,7 @@ Most world power adapters available on Amazon just suck. They are clunky or neve
 It allows me to swap out the connector on my Macbook Air (or Pro) charger for appropriate country. Additionally it comes with a USB port that charges phones and tablets much faster than the standard `5`v connector that Apple provides. Also, it saves the need for carrying around additional chargers.
 
 
-* My primary power bank is the[ ]HyperJuice USB-C battery pack](https://www.hypershop.com/blogs/news/hyper-launches-hyperjuice-world-s-most-powerful-usb-c-battery-pack). 
+* My primary power bank is the[ HyperJuice USB-C battery pack](https://www.hypershop.com/blogs/news/hyper-launches-hyperjuice-world-s-most-powerful-usb-c-battery-pack). 
  - Pro: It has two usb-c ports and one USB-A port. It packs more power than the Anker PowerCore+ (below) and can charge my MacBook pro and two other devices at the same time. I can charge it back with my MacBook charger and the whole thing weights a lot less than Anker's largest power brick.
 
 * [Anker PowerCore+ 26800](https://www.amazon.com/gp/product/B01K6TA748/)
