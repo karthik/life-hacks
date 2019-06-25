@@ -28,8 +28,12 @@ It allows me to swap out the connector on my Macbook Air (or Pro) charger for ap
 This is my backup/secondary power brick.
     - Pro: Can charge two devices simultaneously and multiple times. Never be stuck at one of the few power outlets at a conference.
     - Con: It's a bit on the heavier side and takes almost overnight to fully recharge.
-- [A USB condom](http://www.amazon.com/PortaPow-Charge-Block-Adaptor-SmartCharge/dp/B00T0DW3F8) - Most charging outlets, especially rental cars/airports can easily download data (your contacts and photos for example) without any warning dialog. Attach one of these to prevent data transfer while allowing charging.
-- Masking tape: Another important hack is to pack a small roll of masking tape. No matter what adapter you have, it will never sit snugly in an international socket. How many times have you propped up kettles, room service menus, coffee table books in your airbnb just to keep the plug from falling out? Masking tape holds everything in place nicely and is easy to clean up.
+- [A USB condom](http://www.amazon.com/PortaPow-Charge-Block-Adaptor-SmartCharge/dp/B00T0DW3F8) - Most charging outlets, especially rental cars/airports can easily download data (your contacts and photos for example) without any warning dialog. Attach one of these to prevent data transfer while allowing charging.\
+
+
+#### Gaffer tape is magic 💫
+
+- I love gaffer tape. so much. I started using it for my photography but soon realized it's excellent for air travel. Have you ever tried to charge a laptop from the outlet between the seats? How often does your leg fall asleep from holding the brick in place so you can keep charging? Secure that with gaffer tape. Have you tried watching a show on your iPad awkwardly holding it or propping it on the tray table? No more. Gaffer that to the seat (a few double sided loops will hold even my 12" pro quite securely) in front of you (even over the shitty low res United screens). Then peel everything off, leaving no residue. 
 
 ### __Sleep__  
 I do my best to minimize jet lag by hacking my sleep (yes I realize this sound a bit douchey). The suggestions that follow are probably not appropriate for most people. Warning: Your mileage/metabolism will most certainly vary and I recommend speaking to your medical professional first. 
