@@ -51,7 +51,7 @@ There is no set recommendation here but don't sleep much on the plane. Definitel
 
 * [Ostrich pillow light](http://www.ostrichpillow.com/ostrich-pillow-light/) - _The larger one takes up too much space (but I keep that in my office). This is pretty much the best for tuning out the world._
 * [The Thunderspace app](http://thunderspace.me/) (also see [Windy](http://windy.fm/), [Sunny](http://getsunnyapp.com/), and [Muji to Relax](https://itunes.apple.com/us/app/muji-to-relax/id893570078?mt=8))
-* [A nice pair of in-ear monitors](https://www.earphonesolutions.com/westone-um-pro-10-earphones.html) - _Headphones are simply too bulky for travel._
+* [A nice pair of noise canceling headphones](https://www.sony.com/electronics/headband-headphones/wh-1000xm3). *I've moved on from in ear monitors in favor of this.*
 * If you want to be a bit OCD about minimizing jet lag, check out [jetlag rooster](http://www.jetlagrooster.com/) for a sleep plan before/after your travel.
 
 
