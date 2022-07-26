@@ -14,7 +14,7 @@ As I’ve gotten older, my rule for air travel is to fly with the fewest connect
 
 ### Gear
 
-I still stand by my Minaal carry-on](http://www.minaal.com/products/minaal-carry-on-bag) for most short trips. I tack on a small carry-on suitcase for longer trips. I use various camera cubes to pack camera gear into these unless I choose to travel with a large camera backpack for photography trips.
+I still stand by my [Minaal carry-on](http://www.minaal.com/products/minaal-carry-on-bag) for most short trips. I tack on a small carry-on suitcase for longer trips. I use various camera cubes to pack camera gear into these unless I choose to travel with a large camera backpack for photography trips.
 
 #### Chargers
 
