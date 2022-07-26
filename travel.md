@@ -1,7 +1,7 @@
 # Travel Hacks
 
 
-I initially wrote up my [travel hacks 7 years ago](travel2015.md). I recently revisited this page and realized that much of it is out of date. For starters, the pandemic has dramatically changed my travel frequency and routine, and many of the products I wrote about are now outdated. So here’s my 2022 version. 
+I originally wrote up my [travel hacks](travel2015.md)  7 years ago. I recently revisited this page and realized that much of it is out of date. For starters, the pandemic has dramatically changed my travel frequency and routine, and many of the products I wrote about are now outdated. So here’s my 2022 version. 
 
 
 ## Air travel
@@ -47,20 +47,21 @@ There is no set recommendation here but don’t sleep much on the plane. Definit
 
 ### SIM cards
 
-In the past I would grab sim cards at airports. I no longer do that. I keep my Verzion travel plan on as I need to stay in touch with family. I also grab an [eSim](https://www.airalo.com/), which has now become so easy.
+In the past, I would grab sim cards at airports. I no longer do that. I keep my Verzion travel plan on as I need to stay in touch with family. I also grab an [eSim](https://www.airalo.com/) for data, which has now become so easy.
 
 ### Apps
 
 * [TripIt Pro](https://www.tripit.com/pro) Sadly in 2022, there isn’t a good alternative to TripIt. The app feels abandoned but there is no other way to collate all travel plans in one place. I still use it, but have turned off all notifications as I find their travel updates very slow and useless (more on this below).
 * [Flighty](https://www.flightyapp.com/) has replaced the TripIt gate and schedule notifications completely. It’s expensive but the UI is amazing, notifications are blazing fast, and it has so much more information, like tracking the aircraft 25 hours before departure, on-time stats, and more.
-* [Seat Alerts](https://apps.apple.com/us/app/seat-alerts/id533533342) I’ve always been picky about seats, but more so since the pandemic started. For most aircraft bodies and airline-specific configurations, I know exactly where I want to sit. If you feel the same way and miss out on your ideal seats, $0.99 on this app will get you an alert for all your preferred seats so you can grab them asap.
+* [Seat Alerts](https://apps.apple.com/us/app/seat-alerts/id533533342) I’ve always been picky about seats, but more so since the pandemic started. For most aircraft bodies and airline-specific configurations, I know exactly where I want to sit. If you feel the same way and miss out on your ideal seats, $0.99 (per flight) on this app will get you an alert for all your preferred seats so you can grab them asap.
 
 ## Apple Watch Face
 
-- I have a [focus mode](https://support.apple.com/en-us/HT212608) for travel that triggers when I enter the San Francisco airport geofence. It switches all my home screen apps and also my watch face. More on this [here](https://matthewbischoff.com/travel-focus-mode/)
+- I have a [focus mode](https://support.apple.com/en-us/HT212608) for travel that triggers when I enter the San Francisco airport geofence or open a travel app. It switches all my home screen apps and also my watch face. More on this [here](https://matthewbischoff.com/travel-focus-mode/)
 
 ## Misc Best Practices
 
-- **First Aid**: Keep a small first aid kit in your pack. I stock mine with travel-sized refills of the [most common medications](https://www.rescue-essentials.com/medications-unit-dose-pack/), Advil, Tylenol, Zyrtec, and Benadryl (the last 4 in branded, sealed, single-use packets). I’ve spent a lot of time looking for a pharmacy at odd hours in random countries and still failed to find the right meds. I now keep a small laminated checklist and top off this kit before each trip.
+- **First Aid**: Keep a small first aid kit in your pack. I stock mine with travel-sized refills of the [most common medications](https://www.rescue-essentials.com/medications-unit-dose-pack/), Advil, Tylenol, Zyrtec, and Benadryl (all in branded, sealed, single-use packets). I’ve spent a lot of time looking for a pharmacy at odd hours in random countries and still failed to find the right meds. I now keep a small laminated checklist and top off this kit before each trip.
+- **a covid kit** I also carry at least two rapid tests/day of travel and schedule PCR tests before departure and after my return. 
 - **A second wallet**: Hidden in my pack is always a second wallet with an alternate ID, credit + debit card, and some cash.
 - **A quick map of relevant locations**: Before I travel I make sure to mark my hotels on a Google map for $city and save that to a list named after the city. I take a couple more minutes to quickly find the nearest emergency room, pharmacy, and healthy grocery store and save those. If I have more time, I’ll mark up all the nice restaurants as well. You’ll be surprised at how handy this turns out to be. When you’re walking around your hotel/the city and want to grab some water/food/drinks/snacks, you’ll know where to go instead of trying to research spots while standing on a street corner. This doesn’t have to be an extensive, serendipity-killing process.
