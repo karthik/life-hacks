@@ -1,102 +1,59 @@
-
-# Some of my travel hacks
-
-I travel a considerable amount every year and have developed various hacks to make my life easier. I figured I should document some of these so others may benefit.
-
-### Travel gear
-For the last few years I've traveled with nothing more than my [Minaal  carry-on](http://www.minaal.com/products/minaal-carry-on-bag). It's the best piece of travel gear I've owned. I can comfortably pack [enough for two weeks](https://www.youtube.com/watch?v=m3J3nnRrsa8) (+ laptop and other supplies). If I stay longer than two weeks, I often airbnb which means I have access to a washer and dryer. With essentials that stay in the bag, I can be ready for most trips in minutes using a few packing cubes. I've traveled over 200k miles the last couple of years with nothing more than my Minaal. I've recently also started carrying their smaller version (the [Minaal daily](https://www.minaal.com/collections/your-future-gear/products/daily-bag)) as my day pack at my destination.
+I initially wrote up my [travel hacks 7 years ago](travel2015.md). I recently revisited this page and realized that much of it is out of date. For starters, the pandemic has dramatically changed my travel frequency and routine, and many of the products I wrote about are now outdated. So here’s my 2022 version. 
 
 ![](https://i.imgur.com/Q5KLkDL.jpg)
 
-### Tech Dopp kit
-My tech dopp kit of choice is the [Peak Design Tech Pouch](https://www.peakdesign.com/products/tech-pouch/) | ([video review](https://youtu.be/TfF18w4qe_E?t=151))(I also love their camera gear!). This compact and practically designed bag holds my Plugbug, Anker phone brick, cables, adapters, dongles, Advil and other misc gear in a compact way. This also works easily with my camera straps in case i needed a small bag.
+## Air travel
 
-### __Power__  
-Most world power adapters available on Amazon just suck. They are clunky or never seem to snugly fit in loose EU sockets. I've spent way too much time propping electronics up with books and kettles available in my airbnb. Sometimes I even pack a bit of masking tape to secure plugs in sockets. My preferred solution is [Twelve South's PlugBug World](https://www.twelvesouth.com/product/plugbug-world). 
+I’ve cut my travel substantially since the pandemic started. I also plan to travel much less going forward because of climate reasons. My goal is to attend a few high-value meetings in person and remotely participate in the rest. 
 
-
-
-![](http://i.imgur.com/QdDbP8u.jpg)
-
-It allows me to swap out the connector on my Macbook Air (or Pro) charger for appropriate country. Additionally it comes with a USB port that charges phones and tablets much faster than the standard `5`v connector that Apple provides. Also, it saves the need for carrying around additional chargers.
+As I’ve gotten older, my rule for air travel is to fly with the fewest connections (cost is not a factor), through big hubs (for redundancy), and only on carriers where I have high status. If a meeting cannot accommodate my travel preferences, I skip those meetings.
 
 
-* My primary power bank is the[ HyperJuice USB-C battery pack](https://www.hypershop.com/blogs/news/hyper-launches-hyperjuice-world-s-most-powerful-usb-c-battery-pack). 
- - Pro: It has two usb-c ports and one USB-A port. It packs more power than the Anker PowerCore+ (below) and can charge my MacBook pro and two other devices at the same time. I can charge it back with my MacBook charger and the whole thing weights a lot less than Anker's largest power brick.
+### Gear
 
-* [Anker PowerCore+ 26800](https://www.amazon.com/gp/product/B01K6TA748/)
-This is my backup/secondary power brick.
-    - Pro: Can charge two devices simultaneously and multiple times. Never be stuck at one of the few power outlets at a conference.
-    - Con: It's a bit on the heavier side and takes almost overnight to fully recharge.
-- [A USB condom](http://www.amazon.com/PortaPow-Charge-Block-Adaptor-SmartCharge/dp/B00T0DW3F8) - Most charging outlets, especially rental cars/airports can easily download data (your contacts and photos for example) without any warning dialog. Attach one of these to prevent data transfer while allowing charging.\
+I still stand by my Minaal carry-on](http://www.minaal.com/products/minaal-carry-on-bag) for most short trips. I tack on a small carry-on suitcase for longer trips. I use various camera cubes to pack camera gear into these unless I choose to travel with a large camera backpack for photography trips.
 
+#### Chargers
 
-#### Gaffer tape is magic 💫
+- As I have mostly switched to a USB-C world (other than my iPhone which I expect will change in version 14), all my old chargers have been replaced by Anker 6ft braided cables (I carry at least 4 of them) and [Anker Gan bricks](https://www.anker.com/ganprime?ref=naviMenu). 
+- I have a small [Anker 622 Magnetic Battery (MagGo)](https://www.amazon.com/Anker-Magnetic-Foldable-Wireless-Interstellar/dp/B09925S3R9) for on-the-go charging but I’m mostly just good topping off when I’m near power.
 
-- I love gaffer tape. so much. I started using it for my photography but soon realized it's excellent for air travel. Have you ever tried to charge a laptop from the outlet between the seats? How often does your leg fall asleep from holding the brick in place so you can keep charging? Secure that with gaffer tape. Have you tried watching a show on your iPad awkwardly holding it or propping it on the tray table? No more. Gaffer that to the seat (a few double sided loops will hold even my 12" pro quite securely) in front of you (even over the shitty low res United screens). Then peel everything off, leaving no residue. 
+I keep everything in a [Electronic Dopp Kit](https://www.peakdesign.com/products/tech-pouch/) from Peak Design. I also have a small router, flat ethernet cable, additional small cables, extra yubikey, and adapters to convert USB-A → USB-C (and the other way around).  The real pro tip is to leave this packed and ready at all times and not use your everyday chargers/cables here (the same rule applies to a regular Dopp kit).
 
-### __Sleep__  
-I do my best to minimize jet lag by hacking my sleep (yes I realize this sound a bit douchey). The suggestions that follow are probably not appropriate for most people. Warning: Your mileage/metabolism will most certainly vary and I recommend speaking to your medical professional first. 
+### Jetlag / Sleep
 
-a) **If you're landing before noon at your destination (TLDR: Sleep much of the plane ride)**  
+I do my best to minimize jet lag. With help from my primary care doctor, I’ve figured out ways to minimize jetlag.
+
+a) **If you’re landing before noon at your destination (TLDR: Sleep much of the plane ride)**  
 - Eat a substantial meal at the airport. Try to avoid eating on the plane as much as possible.  
-- Read a book or watch a movie (or do anything else to stay awake for a couple of hours), then take an Ambien (you'll need a prescription from your doctor first), and fall asleep. Make sure there are at least 6 more hours on the flight so you'll have time to wake up _before_ landing. It really sucks to be grogy while clearing passport control.
-- Have coffee at your destination, then eat a giant greasy breakfast.  
-- This allows me to stay up till past 10pm at my destination and my cycle is reset when I fall asleep. I sometimes take half an Ambien the first night to make sure I stay asleep through the night. 
+- Do anything else to stay awake for a couple of hours, then take an Ambien (you’ll need a prescription from your doctor first), and fall asleep. Make sure there are at least 6 more hours on the flight so you’ll have time to wake up _before_ landing.
+- Have coffee at your destination, then eat a giant breakfast.  
+- This allows me to stay up till past 10 pm at my destination and my cycle is reset when I fall asleep. I sometimes take half an Ambien the first night to make sure I stay asleep through the night.
 
-b) **If landing at destination late afternoon to evening**:  
-There is no set recommendation here but don't sleep much on the plane. Definitely nap for a couple of hours here and there but stay awake and watch as many bad movies as possible. Limit or avoid alcohol. Then eat a light dinner at destination and take an Ambien and get to bed at 10pm or after. You'll comfortably wake up at 6 and have a great day.
+b) **If landing at the destination late afternoon to evening**:  
+There is no set recommendation here but don’t sleep much on the plane. Definitely nap for a couple of hours here and there but stay awake and watch as many bad movies as possible. Avoid alcohol and caffeine. Then eat a light dinner at the destination and take an Ambien and get to bed at 10 pm or after. 
 
-**Other useful sleep stuff**
-
-* [Ostrich pillow light](http://www.ostrichpillow.com/ostrich-pillow-light/) - _The larger one takes up too much space (but I keep that in my office). This is pretty much the best for tuning out the world._
-* [The Thunderspace app](http://thunderspace.me/) (also see [Windy](http://windy.fm/), [Sunny](http://getsunnyapp.com/), and [Muji to Relax](https://itunes.apple.com/us/app/muji-to-relax/id893570078?mt=8))
-* [A nice pair of noise canceling headphones](https://www.sony.com/electronics/headband-headphones/wh-1000xm3). *I've moved on from in ear monitors in favor of this.*
-* If you want to be a bit OCD about minimizing jet lag, check out [jetlag rooster](http://www.jetlagrooster.com/) for a sleep plan before/after your travel.
+Other relevant gear:
+- [Manta Sleep Mask](https://mantasleep.com/products/manta-sleep-mask). These are super nice and compact
+- [Airfly](https://www.twelvesouth.com/products/airfly) So I can still use my own headphones with airplane tv consoles.
 
 
-### __Wifi__  
+### SIM cards
 
-Hotels rarely have a simple wifi setup. It sucks to go through a splash page every few hours and on every device. Make your life easier by bringing your own router that all your devices recognize and instantly connect to. 
-I recommend [NetGear Trek](http://www.amazon.com/gp/product/B00HQ883T4). 
-
-
-![](http://core0.staticworld.net/images/article/2014/05/netgear_trek-100266044-large.png)
-
-This amazing little device has a built in plug (or use USB power), can take ethernet or connect to wifi and is fairly small.
-
-a) Plug ethernet cable into your router, plug router into wall. All your devices are instantly connected  
-OR
-b) Plug router into wall. Connect to router and go through the splash page once. The device keeps the connection alive so you don't have to do this every time you come back to the room.
-
-
-I also own a [TBMAX router](http://www.amazon.com/gp/product/B00PNJRDT4). It's much more compact but powers only off of USB (it's easy to connect to a iPhone power brick), but has the downside of not being able to navigate splash pages.
-
-### Ziploc for extra cash, transit cards, power tips
-
-I have a Ziploc bag for a few countries I travel often where I keep loose change, local currency, transit card that I can just grab for every trip back. 
-
-### Sim cards
-
-Verizon's global plan is a total and complete scam. [Telestial](http://www.telestial.com/), which I keep as a backup (balance never expires) works in most countries but is exorbitantly expensive. 
-
-Always grab a local SIM card where possible. Most local sims are shockingly cheap. As of June 2017 [roaming between EU countries](https://techcrunch.com/2017/06/15/europe-mostly-ends-mobile-roaming-fees-from-today/) is free of charge, so you can use a single sim for traveling within Europe.
-
-### __Keeping your voice__  
-
-If you're traveling, especially to a conference, you're going to be speaking to a lot of people. It's very easy to lose your voice on day 2. I've found [Fisherman's Friend](http://www.amazon.com/gp/product/B000UD4YSQ) to be the best defense against that. You can buy a large box on Amazon for pretty cheap and leave little packs all over your carry on and day packs. These are strong and take a long time to melt and keep your throat well coated.
-
-![](https://i.imgur.com/42Vrxp4.png)
-
-**Misc first aid**
-
-I keep a small travel first aid kit (from REI) in my travel bag at all times. I also keep a pack of [unit dose packs](https://www.amazon.com/gp/product/B0093PBOI0/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1) for 5 most commonly needed medications and update them as needed. 
-
+In the past, I would grab sim cards at airports. I no longer do that. I keep my Verzion travel plan on as I need to stay in touch with family. I also grab an [eSim](https://www.airalo.com/), which has now become so easy.
 
 ### Apps
 
-* [TripIt Pro](https://www.tripit.com/pro) (besides the standard features, I always find an alternate flight [same or different airline, including how many/what seats are available] as soon as I know of a delay. TripIt also tells me about gates long before most airlines update airport displays).
-* [Hotel Tonight](https://www.hoteltonight.com/) - works for last minute deals on nice hotels the same day/week. Using my code `KRAM12` gives us both $25 off. 
-* [maps.me](http://maps.me/en/home) - Free offline maps, including transit directions, for nearly any place in the world. _Navigating rural Norway without cell service has never been more fun._
-* [iArrow](http://iarw.me/) - Helps me find my way back to things (losing a rental car or your tent is fairly disconcerting).
-* [Loungebuddy](http://www.loungebuddy.com/) - Find the nearest lounge in unfamiliar airports.
+* [TripIt Pro](https://www.tripit.com/pro) Sadly in 2022, there isn’t a good alternative to TripIt. The app feels abandoned but there is no other way to collate all travel plans in one place. I still use it, but have turned off all notifications as I find their travel updates very slow and useless (more on this below).
+* [Flighty](https://www.flightyapp.com/) has replaced the TripIt gate and schedule notifications completely. It’s expensive but the UI is amazing, notifications are blazing fast, and it has so much more information, like tracking the aircraft 25 hours before departure, on-time stats, and more.
+* [Seat Alerts](https://apps.apple.com/us/app/seat-alerts/id533533342) I’ve always been picky about seats, but more so since the pandemic started. For most aircraft bodies and airline-specific configurations, I know exactly where I want to sit. If you feel the same way and miss out on your ideal seats, $0.99 on this app will get you an alert for all your preferred seats so you can grab them asap.
+
+## Apple Watch Face
+
+- I have a [focus mode](https://support.apple.com/en-us/HT212608) for travel that triggers when I enter the San Francisco airport geofence. It switches all my home screen apps and also my watch face. More on this [here](https://matthewbischoff.com/travel-focus-mode/)
+
+## Misc Best Practices
+
+- **First Aid**: Keep a small first aid kit in your pack. I stock mine with travel-sized refills of the most common medications, Advil, Tylenol, Zyrtec, and Benadryl (the last 4 in sealed, single-use packets). I’ve spent a lot of time looking for a pharmacy at odd hours in random countries and still failed to find the right meds. I now keep a small laminated checklist and top off this kit before each trip.
+- **A second wallet**: Hidden in my pack is always a second wallet with an alternate ID, credit + debit card, and some cash.
+- **A quick map of relevant locations**: Before I travel I make sure to mark my hotels on a Google map for $city and save that to a list named after the city. I take a couple more minutes to quickly find the nearest emergency room, pharmacy, and healthy grocery store and save those. If I have more time, I’ll mark up all the nice restaurants as well. You’ll be surprised at how handy this turns out to be. When you’re walking around your hotel/the city and want to grab some water/food/drinks/snacks, you’ll know where to go instead of trying to research spots while standing on a street corner. This doesn’t have to be an extensive, serendipity-killing process.
