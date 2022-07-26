@@ -25,7 +25,7 @@ I still stand by my [Minaal carry-on](http://www.minaal.com/products/minaal-carr
 I keep everything in a [Electronic Dopp Kit](https://www.peakdesign.com/products/tech-pouch/) from Peak Design. I also have a small router, flat ethernet cable, additional small cables, extra yubikey, spare sd cards, and adapters to convert USB-A → USB-C (and the other way around).  The real pro tip is to leave this packed and ready at all times and not use your everyday chargers/cables here (the same rule applies to a regular Dopp kit).
 
 #### Air Tags
-I have AirTags hidden in all of my bags. [Moment AirTag holders](https://www.shopmoment.com/airtags) are really nice to mount them in hard-to-find spots. My home is a significant location so it doesn’t alter me when I leave things behind here, but it will when I travel. 
+I have AirTags hidden in all of my bags. [Moment AirTag holders](https://www.shopmoment.com/airtags) are really nice to mount them in hard-to-find spots. My home is a significant location so it doesn’t alert me when I leave things behind here, but it will when I travel. 
 
 ### Jetlag / Sleep
 
