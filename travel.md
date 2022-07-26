@@ -1,3 +1,6 @@
+# Travel Hacks
+
+
 I initially wrote up my [travel hacks 7 years ago](travel2015.md). I recently revisited this page and realized that much of it is out of date. For starters, the pandemic has dramatically changed my travel frequency and routine, and many of the products I wrote about are now outdated. So here’s my 2022 version. 
 
 ![](https://i.imgur.com/Q5KLkDL.jpg)
