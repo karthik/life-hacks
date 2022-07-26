@@ -3,7 +3,6 @@
 
 I initially wrote up my [travel hacks 7 years ago](travel2015.md). I recently revisited this page and realized that much of it is out of date. For starters, the pandemic has dramatically changed my travel frequency and routine, and many of the products I wrote about are now outdated. So here’s my 2022 version. 
 
-![](https://i.imgur.com/Q5KLkDL.jpg)
 
 ## Air travel
 
@@ -15,6 +14,8 @@ As I’ve gotten older, my rule for air travel is to fly with the fewest connect
 ### Gear
 
 I still stand by my [Minaal carry-on](http://www.minaal.com/products/minaal-carry-on-bag) for most short trips. I tack on a small carry-on suitcase for longer trips. I use various camera cubes to pack camera gear into these unless I choose to travel with a large camera backpack for photography trips.
+
+![](https://i.imgur.com/Q5KLkDL.jpg)
 
 #### Chargers
 
