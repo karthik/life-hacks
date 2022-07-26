@@ -40,14 +40,14 @@ a) **If you’re landing before noon at your destination (TLDR: Sleep much of th
 b) **If landing at the destination late afternoon to evening**:  
 There is no set recommendation here but don’t sleep much on the plane. Definitely nap for a couple of hours here and there but stay awake and watch as many bad movies as possible. Avoid alcohol and caffeine. Then eat a light dinner at the destination and take an Ambien and get to bed at 10 pm or after. 
 
-Other relevant gear:
+**Other relevant gear**:
 - [Manta Sleep Mask](https://mantasleep.com/products/manta-sleep-mask). These are super nice and compact
 - [Airfly](https://www.twelvesouth.com/products/airfly) So I can still use my own headphones with airplane tv consoles.
 
 
 ### SIM cards
 
-In the past, I would grab sim cards at airports. I no longer do that. I keep my Verzion travel plan on as I need to stay in touch with family. I also grab an [eSim](https://www.airalo.com/), which has now become so easy.
+In the past I would grab sim cards at airports. I no longer do that. I keep my Verzion travel plan on as I need to stay in touch with family. I also grab an [eSim](https://www.airalo.com/), which has now become so easy.
 
 ### Apps
 
