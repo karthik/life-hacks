@@ -27,7 +27,7 @@ I keep everything in a [Electronic Dopp Kit](https://www.peakdesign.com/products
 #### Air Tags
 I have AirTags hidden in all of my bags. [Moment AirTag holders](https://www.shopmoment.com/airtags) are really nice to mount them in hard-to-find spots. My home is a significant location so it doesn’t alert me when I leave things behind here, but it will when I travel. 
 
-### Jetlag / Sleep
+## Jetlag / Sleep
 
 I do my best to minimize jet lag. With help from my primary care doctor, I’ve figured out ways to minimize jetlag.
 
