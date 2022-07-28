@@ -41,7 +41,7 @@ b) **If landing at the destination late afternoon to evening**:
 There is no set recommendation here but don’t sleep much on the plane. Definitely nap for a couple of hours here and there but stay awake and watch as many bad movies as possible. Avoid alcohol and caffeine. Then eat a light dinner at the destination and take an Ambien and get to bed at 10 pm or after. 
 
 **Other relevant gear**:
-- [Manta Sleep Mask](https://mantasleep.com/products/manta-sleep-mask). These are super nice and compact
+- [Manta Sleep Mask](https://mantasleep.com/products/manta-sleep-mask). These are super nice and compact and have replaced my previous recommendation of an Ostrich Pillow. The large eye cups put zero pressure on your eyes. 
 - [Airfly](https://www.twelvesouth.com/products/airfly) So I can still use my own headphones with airplane tv consoles.
 
 
