@@ -8,7 +8,7 @@ I originally wrote up my [travel hacks](travel2015.md)  7 years ago. I recently 
 
 I’ve cut my travel substantially since the pandemic started. I also plan to travel much less going forward because of climate reasons. My goal is to attend a few high-value meetings in person and remotely participate in the rest. 
 
-As I’ve gotten older, my rule for air travel is to fly with the fewest connections (cost is not a factor), through big hubs (for redundancy), and only on carriers where I have high status. If a meeting cannot accommodate my travel preferences, I skip those meetings.
+As an elder millenial, my rule for air travel is to fly with the fewest connections (cost is not a factor), through big hubs (for redundancy), and only on carriers where I have high status. If a meeting cannot accommodate my travel preferences, I skip those meetings.
 
 
 ### Gear
