@@ -39,7 +39,7 @@ There is no set recommendation here but don’t sleep much on the plane. Definit
 
 ### Chargers
 
-- As I have mostly switched to a USB-C world (other than my iPhone which I expect will change in version 14), all my old chargers have been replaced by Anker 6ft braided cables (I carry at least 4 of them) and [Anker Gan bricks](https://www.anker.com/ganprime?ref=naviMenu). 
+- As I have mostly switched to a USB-C world (other than my iPhone which I expect will change in version 14), all my old chargers have been replaced by Anker 6ft braided cables (I carry at least 4 of them), and [Anker Gan bricks](https://www.anker.com/ganprime?ref=naviMenu). 
 - I have a small [Anker 622 Magnetic Battery (MagGo)](https://www.amazon.com/Anker-Magnetic-Foldable-Wireless-Interstellar/dp/B09925S3R9) for on-the-go charging but I’m mostly just good topping off when I’m near power.
 
 I keep everything in a [Electronic Dopp Kit](https://www.peakdesign.com/products/tech-pouch/?variant=11531003166764) from Peak Design. I also have a small router, flat ethernet cable, additional small cables, extra yubikey, spare sd cards, and adapters to convert USB-A → USB-C (and the other way around).  The real pro tip is to leave this packed and ready at all times and not use your everyday chargers/cables here (the same rule applies to a regular Dopp kit).
@@ -60,7 +60,7 @@ In the past, I would grab sim cards at airports. I no longer do that. I keep my 
 
 ### Apple Watch Face
 
-- I have a [focus mode](https://support.apple.com/en-us/HT212608) for travel that triggers when I enter the San Francisco airport geofence or open a travel app. It switches all my home screen apps and also my watch face. More on this [here](https://matthewbischoff.com/travel-focus-mode/)
+- I have a [focus mode](https://support.apple.com/en-us/HT212608) for travel that triggers when I enter the San Francisco airport geofence or open a travel app. It switches all my home screen apps and also my watch face. More on how to set this up [here](https://matthewbischoff.com/travel-focus-mode/)
 
 ## Misc Best Practices
 
