@@ -45,7 +45,7 @@ There is no set recommendation here but don’t sleep much on the plane. Definit
 I keep everything in a [Electronic Dopp Kit](https://www.peakdesign.com/products/tech-pouch/?variant=11531003166764) from Peak Design. I also have a small router, flat ethernet cable, additional small cables, extra yubikey, spare sd cards, and adapters to convert USB-A → USB-C (and the other way around).  The real pro tip is to leave this packed and ready at all times and not use your everyday chargers/cables here (the same rule applies to a regular Dopp kit).
 
 #### Air Tags
-I have AirTags hidden in all of my bags. [Moment AirTag holders](https://www.shopmoment.com/airtags) are really nice to mount them in hard-to-find spots. My home is a significant location so it doesn’t alert me when I leave things behind here, but it will when I travel. 
+I have AirTags hidden in all of my bags. [Moment AirTag holders](https://www.shopmoment.com/airtags) are really nice to mount in hard-to-find spots. My home is a significant location so it doesn’t alert me when I leave things behind here, but it will when I travel. 
 
 ### SIM cards
 
@@ -65,6 +65,6 @@ In the past, I would grab sim cards at airports. I no longer do that. I keep my 
 ## Misc Best Practices
 
 - **First Aid**: Keep a small first aid kit in your pack. I stock mine with travel-sized refills of the [most common medications](https://www.rescue-essentials.com/medications-unit-dose-pack/), Advil, Tylenol, Zyrtec, and Benadryl (all in branded, sealed, single-use packets). I’ve spent a lot of time looking for a pharmacy at odd hours in random countries and still failed to find the right meds. I now keep a small laminated checklist and top off this kit before each trip.
-- **A covid kit** I also carry at least two rapid tests per day of travel and schedule PCR tests before departure and after my return. 
+- **A covid kit** I also carry at least two rapid tests per day of travel and schedule PCR tests before departure and after my return. I also carry an Aranet Co2 monitor to make sure meeting rooms have good ventilation.
 - **A second wallet**: Hidden in my pack is always a second wallet with an alternate ID, credit + debit card, and some cash.
 - **A quick map of relevant locations**: Before I travel I make sure to mark my hotels on a Google map for $city and save that to a list named after the city. I take a couple more minutes to quickly find the nearest emergency room, pharmacy, and healthy grocery store and save those. If I have more time, I’ll mark up all the nice restaurants as well. You’ll be surprised at how handy this turns out to be. When you’re walking around your hotel/the city and want to grab some water/food/drinks/snacks, you’ll know where to go instead of trying to research spots while standing on a street corner. This doesn’t have to be an extensive, serendipity-killing process.
