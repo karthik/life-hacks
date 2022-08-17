@@ -57,6 +57,7 @@ In the past, I would grab sim cards at airports. I no longer do that. I keep my 
 * [Flighty](https://www.flightyapp.com/) has replaced the TripIt gate and schedule notifications completely. It’s expensive but the UI is amazing, notifications are blazing fast, and it has so much more information, like tracking the aircraft 25 hours before departure, on-time stats, and more.
 * [Seat Alerts](https://apps.apple.com/us/app/seat-alerts/id533533342) I’ve always been picky about seats, but more so since the pandemic started. For most aircraft bodies and airline-specific configurations, I know exactly where I want to sit. If you feel the same way and miss out on your ideal seats, $0.99 (per flight) on this app will get you an alert for all your preferred seats so you can grab them asap.
 * Global Entry Appointments: If it’s hard to find an appointment for a renewal, [appointment scanner](https://appointmentscanner.com/) is totally worth the $29. You can easily find one within a few days of signing up. 
+* [Sherpa](https://apply.joinsherpa.com/travel-restrictions?affiliateId=sherpa&language=en-US) for current travel documents (especially related to covid).
 
 ### Apple Watch Face
 
