@@ -23,7 +23,7 @@ I still stand by my [Minaal carry-on](https://www.minaal.com/products/carry-on-b
 I do my best to minimize jet lag. With help from my primary care doctor, I’ve figured out ways to minimize jetlag.
 
 a) **If you’re landing before noon at your destination (TLDR: Sleep much of the plane ride)**  
-- Eat a substantial meal at the airport. Try to avoid eating on the plane as much as possible.  
+- Eat a substantial meal at the airport. Try to avoid eating on the plane as much as possible (also for covid reasons I try to minimize the mask off time as much as possible).  
 - Do anything else to stay awake for a couple of hours, then take an Ambien (you’ll need a prescription from your doctor first), and fall asleep. Make sure there are at least 6 more hours on the flight so you’ll have time to wake up _before_ landing.
 - Have coffee at your destination, then eat a giant breakfast.  
 - This allows me to stay up till past 10 pm at my destination and my cycle is reset when I fall asleep. I sometimes take half an Ambien the first night to make sure I stay asleep through the night.
@@ -39,7 +39,7 @@ There is no set recommendation here but don’t sleep much on the plane. Definit
 
 ### Chargers
 
-- As I have mostly switched to a USB-C world (other than my iPhone which I expect will change in version 14), all my old chargers have been replaced by Anker 6ft braided cables (I carry at least 4 of them), and [Anker Gan bricks](https://www.anker.com/ganprime?ref=naviMenu). 
+- As I have mostly switched to a USB-C world (other than my iPhone which I expect will change in version 15), all my old chargers have been replaced by Anker 6ft braided cables (I carry at least 4 of them), and [Anker Gan bricks](https://www.anker.com/ganprime?ref=naviMenu). 
 - I have a small [Anker 622 Magnetic Battery (MagGo)](https://www.amazon.com/Anker-Magnetic-Foldable-Wireless-Interstellar/dp/B09925S3R9) for on-the-go charging but I’m mostly just good topping off when I’m near power.
 
 I keep everything in a [Electronic Dopp Kit](https://www.peakdesign.com/products/tech-pouch/?variant=11531003166764) from Peak Design. I also have a small router, flat ethernet cable, additional small cables, extra yubikey, spare sd cards, and adapters to convert USB-A → USB-C (and the other way around).  The real pro tip is to leave this packed and ready at all times and not use your everyday chargers/cables here (the same rule applies to a regular Dopp kit).
@@ -49,11 +49,11 @@ I have AirTags hidden in all of my bags. [Moment AirTag holders](https://www.sho
 
 ### SIM cards
 
-In the past, I would grab sim cards at airports. I no longer do that. I keep my Verzion travel plan on as I need to stay in touch with family. I also grab a country-specific [eSim](https://www.airalo.com/) for data, which has now become so easy.
+In the past, I would grab sim cards at airports. I no longer do that. I keep my Verzion travel plan on as I need to stay in touch with family. I also grab a country-specific [eSim](https://www.airalo.com/) for data, which has now become so easy. Airalo now has an app to make this even easier.
 
 ### Apps & Services
 
-* [TripIt Pro](https://www.tripit.com/pro) Sadly in 2022, there isn’t a good alternative to TripIt. The app feels abandoned but there is no better way to collate all travel plans in one place. I still use it, but have turned off all notifications as I find their travel updates very slow and useless (more on this below).
+* [TripIt Pro](https://www.tripit.com/pro) Sadly in 2022, there isn’t a good alternative to TripIt. The app feels abandoned but there is no better way to collate all travel plans in one place. I still use it but have turned off all notifications as I find their travel updates very slow and useless (more on this below).
 * [Flighty](https://www.flightyapp.com/) has replaced the TripIt gate and schedule notifications completely. It’s expensive but the UI is amazing, notifications are blazing fast, and it has so much more information, like tracking the aircraft 25 hours before departure, on-time stats, and more.
 * [Seat Alerts](https://apps.apple.com/us/app/seat-alerts/id533533342) I’ve always been picky about seats, but more so since the pandemic started. For most aircraft bodies and airline-specific configurations, I know exactly where I want to sit. If you feel the same way and miss out on your ideal seats, $0.99 (per flight) on this app will get you an alert for all your preferred seats so you can grab them asap.
 * Global Entry Appointments: If it’s hard to find an appointment for a renewal, [appointment scanner](https://appointmentscanner.com/) is totally worth the $29. You can easily find one within a few days of signing up. 
@@ -66,6 +66,6 @@ In the past, I would grab sim cards at airports. I no longer do that. I keep my 
 ## Misc Best Practices
 
 - **First Aid**: Keep a small first aid kit in your pack. In addition to regular first aid, I stock mine with travel-sized refills of the [most common medications](https://www.rescue-essentials.com/medications-unit-dose-pack/), Advil, Tylenol, Zyrtec, and Benadryl (all in branded, sealed, single-use packets). I’ve spent a lot of time looking for a pharmacy at odd hours in random countries and still failed to find the right meds. I now keep a small laminated checklist and top off this kit before each trip.
-- **A covid kit** I also carry at least two rapid tests per day of travel and schedule PCR tests before departure and after my return. I also carry an [Aranet Co2 monitor](https://www.amazon.com/Aranet4-Home-Temperature-Ink-Configuration/dp/B07YY7BH2W) to make sure meeting rooms have good ventilation. I also keep a [fresh N95](https://shopvida.com/products/n95-masks#223000018010) for each flight and [KN95s](https://shopvida.com/products/high-protection-recyclable-masks#208100000603) for the rest of my time.
+- **A covid kit** I also carry at least two rapid tests per day of travel and schedule PCR tests before departure and after my return. I also carry an [Aranet Co2 monitor](https://www.amazon.com/Aranet4-Home-Temperature-Ink-Configuration/dp/B07YY7BH2W) to make sure meeting rooms have good ventilation. I also use an [Envo mask (N95)](https://envomask.com/) for air travel and [KN95s](https://shopvida.com/products/high-protection-recyclable-masks#208100000603) for the rest of my time.
 - **A second wallet**: Hidden in my pack is always a second wallet with an alternate ID, credit + debit card, and some cash.
-- **A quick map of relevant locations**: Before I travel I make sure to mark my hotels on a Google map for $city and save that to a list named after the city. I take a couple more minutes to quickly find the nearest emergency room (only for international trips), pharmacy, and healthy grocery store and save those. If I have more time, I’ll mark up all the nice restaurants as well. You’ll be surprised at how handy this turns out to be. When you’re walking around your hotel/the city and want to grab some water/food/drinks/snacks, you’ll know where to go instead of trying to research spots while standing on a street corner. This doesn’t have to be an extensive, serendipity-killing process.
+- **A quick map of relevant locations**: Before I travel I make sure to mark my hotels on a Google map for $city and save that to a list named after the city. I take a couple more minutes to quickly find the nearest emergency room (only for international trips), pharmacy, and healthy grocery store and save those. You’ll be surprised at how handy this turns out to be. When you’re walking around your hotel/the city and want to grab some water/food/drinks/snacks, you’ll know where to go instead of trying to research spots while standing on a street corner. This doesn’t have to be an extensive, serendipity-killing process.
