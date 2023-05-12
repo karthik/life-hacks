@@ -34,6 +34,7 @@ There is no set recommendation here but don’t sleep much on the plane. Definit
 **Other relevant gear**:
 - [Manta Sleep Mask](https://mantasleep.com/products/manta-sleep-mask). These are super nice and compact and have replaced my previous recommendation of an Ostrich Pillow. The large eye cups put zero pressure on your eyes. 
 - [Airfly](https://www.twelvesouth.com/products/airfly) So I can still use my own headphones with airplane tv consoles.
+- [Travel Humidifier](https://www.amazon.com/gp/product/B07Z64CSTJ/?th=1) If I'm not short on space, I always pack a travel humidifier. I've tried many and this one has worked the best so far. The dry air on planes and hotel rooms makes me feel like I have a cold and having one of these really helps. I also sleep a lot better.
 
 ## Tech
 
