@@ -58,7 +58,7 @@ In the past, I would grab sim cards at airports. I no longer do that. I keep my 
 
 ![](https://i.imgur.com/AQfQYg3.jpg)
 
-* [Seat Alerts](https://apps.apple.com/us/app/seat-alerts/id533533342) I’ve always been picky about seats, but more so since the pandemic started. For most aircraft bodies and airline-specific configurations, I know exactly where I want to sit. If you feel the same way and miss out on your ideal seats, $0.99 (per flight) on this app will get you an alert for all your preferred seats so you can grab them asap.
+* [Seat Alerts](https://apps.apple.com/us/app/seat-alerts/id533533342) I’ve always been picky about seats, but more so since the pandemic started. For most aircraft bodies and airline-specific configurations, I know exactly where I [want to sit](https://www.aerolopa.com/ua). If you feel the same way and miss out on your ideal seats, $0.99 (per flight) on this app will get you an alert for all your preferred seats so you can grab them asap.
 * Global Entry Appointments: If it’s hard to find an appointment for a renewal, [appointment scanner](https://appointmentscanner.com/) is totally worth the $29. You can easily find one within a few days of signing up. 
 * [Sherpa](https://apply.joinsherpa.com/travel-restrictions?affiliateId=sherpa&language=en-US) for current travel documents (especially related to covid).
 
