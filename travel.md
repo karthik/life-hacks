@@ -40,10 +40,16 @@ There is no set recommendation here but don’t sleep much on the plane. Definit
 
 ### Chargers
 
-- As I have mostly switched to a USB-C world (other than my iPhone which I expect will change in version 15), all my old chargers have been replaced by Anker 6ft braided cables (I carry at least 4 of them), and [Anker Gan bricks](https://www.anker.com/ganprime?ref=naviMenu). 
+- As I have mostly switched to a USB-C world (other than my iPhone which I will update at some point), all my old chargers have been replaced by Anker 6ft braided cables (I carry at least 4 of them), and [Anker Gan bricks](https://www.anker.com/ganprime?ref=naviMenu). 
 - I have a small [Anker 622 Magnetic Battery (MagGo)](https://www.amazon.com/Anker-Magnetic-Foldable-Wireless-Interstellar/dp/B09925S3R9) for on-the-go charging but I’m mostly just good topping off when I’m near power.
 
-I keep everything in a [Electronic Dopp Kit](https://www.peakdesign.com/products/tech-pouch/?variant=11531003166764) from Peak Design. I also have a small router, flat ethernet cable, additional small cables, extra yubikey, spare sd cards, and adapters to convert USB-A → USB-C (and the other way around).  The real pro tip is to leave this packed and ready at all times and not use your everyday chargers/cables here (the same rule applies to a regular Dopp kit).
+I keep everything in a [Electronic Dopp Kit](https://www.amazon.com/SOG-Organizer-Lightweight-Work-Charcoal-85-71-01-31/dp/B08WJMJL86?th=1&tag=inundata-20&linkCode=ur2&linkId=ab1269436ec2597fb04824a7e9f34f84&camp=1789&creative=9325) from SOG. I also have a small router, flat ethernet cable, additional small cables, extra yubikey, spare sd cards, and adapters to convert USB-A → USB-C (and the other way around).  The real pro tip is to leave this packed and ready at all times and not use your everyday chargers/cables here (the same rule applies to a regular Dopp kit).
+
+<details><summary>Past recommendation</summary>In the past I recommended the Peak Design Electronic Dopp Kit. While it is a fantastic kit with great organization, it is a little too bulky for carry on life. I would take it for a longer trip but not everyday travel.</details>
+
+**International adapter:** The most compact international adapter I've found is the [Mogics adapter](https://www.elvesfactory.com/worldshop/EN/MOGICS/MogicsPower/MA1-B). It pairs nicely with the Anker brick and I have stopped carrying the really bulky ones. It always stays packed.
+
+
 
 #### Air Tags
 I have AirTags hidden in all of my bags. [Moment AirTag holders](https://www.shopmoment.com/airtags) are really nice to mount in hard-to-find spots. My home is a significant location so it doesn’t alert me when I leave things behind here, but it will when I travel. 
