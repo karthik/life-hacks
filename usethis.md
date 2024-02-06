@@ -26,7 +26,9 @@
 - [Gestimer](https://maddin.io/gestimer/)
 	- *It’s a neat little timer. If I need to timebox, I drag it down for the desired time and just focus. Often I forget the timer going off and just get into a flow state (which to me is a win).*
 - [Hazeover](https://hazeover.com/)
-	- A nice distraction dimmer. When I’m focused on a window, it dims the rest of my screen. 
+	- *A nice distraction dimmer. When I’m focused on a window, it dims the rest of my screen.* 
+- [Topnotch](https://topnotch.app/)
+	- *Very minor quality of life improvement, but it removes the notch at the top of my screen.* 
 
 
 ## Web services
