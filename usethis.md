@@ -28,6 +28,6 @@
 ## Web services
 
 - [Otter.ai](https://otter.ai/referrals/A7P6BNK3)
-	- *I use it to transcribe calls so I can reference materials later. While Whisper can run locally for a lot less, just the bookkeeping and import makes Otter a better option for the time being.*
+	- *I use it to transcribe calls so I can reference materials later. While [Whisper](https://goodsnooze.gumroad.com/l/macwhisper) can run locally for a lot less, just the bookkeeping and import makes Otter a better option for the time being.*
 - [Speechify](https://share.speechify.com/mzsrAvQ)
 	- *This seems a bit weird at first and I didn’t expect it to stick. But now I love listening to my documents and editing with a fresh perspective. I also love queuing up a few articles into Speechify and going for a walk. I get plenty of work-related reading done and also a nice walk and fresh air. It is a fantastic way to edit because I get to hear it out loud and catch more issues around flow and logic than I can from reading the same text a dozen times.*
