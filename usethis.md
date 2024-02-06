@@ -20,9 +20,11 @@
 - [Bartender](https://www.macbartender.com/)
 	- *Keeps your menubar clutter-free.* 
 - [Fuzzytime](https://marcusolovsson.com/fuzzytime/)
-	- The menubar clock feels a lot less intimidating. I get reminders for meetings so I don’t always want to know the exact time. 
+	- *The menubar clock feels a lot less intimidating. I get reminders for meetings so I don’t always want to know the exact time.* 
 - [Übersicht](https://tracesof.net/uebersicht/)
-	- This is a bit old school but I can use existing widgets (or write my own) and place lots of information directly onto my Desktop wallpaper. 
+	- *This is a bit old school but I can use existing widgets (or write my own) and place lots of information directly onto my Desktop wallpaper.* 
+- [Gestimer](https://maddin.io/gestimer/)
+	- *It’s a neat little timer. If I need to timebox, I drag it down for the desired time and just focus. Often I forget the timer going off and just get into a flow state (which to me is a win).*
 
 
 ## Web services
