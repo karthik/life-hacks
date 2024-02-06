@@ -4,7 +4,7 @@
 	- A fantastic text expander. Not only does it do simple text expansions but you can write out complex formulas. I have not typed out my name, email, phone, address, expanded acronyms and so much more in many years. 
 
 
-## Mac/iOS Only
+## Mac Only
 - [Fantastical](https://flexibits.com/fantastical)
 	- *My calendar software of choice. Mac/iOS Only. The calendars still come from my various GSuites, but I get to group them and turn them off as needed (vacation/work), propose times, and use natural language to set up appointments. Time to leave (for real-world meetings) is a great little addition* 
 - [Things](https://culturedcode.com/things/)
