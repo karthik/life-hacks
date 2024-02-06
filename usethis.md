@@ -10,17 +10,17 @@
 - [Things](https://culturedcode.com/things/)
 	- *I’ve used it for a very long time and it is my second brain for tasks. It doesn’t allow for collaboration (which is a deal breaker for many) but for solo use, it is lovely.*
 - [Hazel](https://www.noodlesoft.com/)
-	- *A tool that runs in the background and automatically cleans up folders. I’ve used this for over a decade and often forget that it still runs silently behind the scenes. It can clean up your downloads folder, delete old install binaries, organize your Desktop, and so much more via custom recipes.*
+	- *A tool that runs in the background and automatically cleans up folders. I’ve used this for over a decade and often forget that it still runs silently behind the scenes. It can clean up your downloads folder, delete old install binaries, organize your Desktop, and so much more via custom recipes. e.g. If there is a file in my Desktop that I haven’t opened in two weeks, move it to my archives and put it in a folder called year-month. If I have an academic pdf in my Downloads folder that I haven’t opened in a while, move it to a folder called academic-pdfs*
 - [Pop Clip](https://www.popclip.app/)
 	- *A popover menu that appears anytime you select any text. It’s great to search directly on a particular site, word counts a block of text, dictionary search, fill the screen, and so much more via [extensions](https://www.popclip.app/extensions/).*
 - [Soulver](https://soulver.app/)
-	- *By far the best back-of-the-envelope calculator. I can build a budget in minutes compared to writing formulas in Excel or Google Sheets. e.g.* `140k USD + 14% overhead in AUD`
+	- *By far the best back-of-the-envelope calculator. I can build a budget in minutes compared to writing formulas in Excel or Google Sheets. e.g.* `140k USD + 14% overhead as AUD`
 - [Rectangle Pro](https://rectangleapp.com/pro)
 	- *Resize windows with keyboard shortcuts.*
 - [Bartender](https://www.macbartender.com/)
 	- *Keeps your menubar clutter-free.* 
 - [Fuzzytime](https://marcusolovsson.com/fuzzytime/)
-	- The menubar clock feels a lot less intimidating. I get reminders for meetings so I don’t want to know the exact time. 
+	- The menubar clock feels a lot less intimidating. I get reminders for meetings so I don’t always want to know the exact time. 
 - [Übersicht](https://tracesof.net/uebersicht/)
 	- This is a bit old school but I can use existing widgets (or write my own) and place lots of information directly onto my Desktop wallpaper. 
 
