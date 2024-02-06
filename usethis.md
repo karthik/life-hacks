@@ -20,6 +20,7 @@
 - [Bartender](https://www.macbartender.com/)
 	- *Keeps your menubar clutter-free.* 
 - [Fuzzytime](https://marcusolovsson.com/fuzzytime/)
+	- The menubar clock feels a lot less intimidating. I get reminders for meetings so I don’t want to know the exact time. 
 - [Übersicht](https://tracesof.net/uebersicht/)
 	- This is a bit old school but I can use existing widgets (or write my own) and place lots of information directly onto my Desktop wallpaper. 
 
