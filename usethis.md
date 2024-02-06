@@ -10,7 +10,7 @@
 - [Things](https://culturedcode.com/things/)
 	- *I’ve used it for a very long time and it is my second brain for tasks. It doesn’t allow for collaboration (which is a deal breaker for many) but for solo use, it is lovely.*
 - [Hazel](https://www.noodlesoft.com/)
-	- *A tool that runs in the background and automatically cleans up folders. I’ve used this for over a decade and often forget that it still runs silently behind the scenes. It can clean up your downloads folder, organize your Desktop, and so much more via custom recipes.*
+	- *A tool that runs in the background and automatically cleans up folders. I’ve used this for over a decade and often forget that it still runs silently behind the scenes. It can clean up your downloads folder, delete old install binaries, organize your Desktop, and so much more via custom recipes.*
 - [Pop Clip](https://www.popclip.app/)
 	- *A popover menu that appears anytime you select any text. It’s great to search directly on a particular site, word counts a block of text, dictionary search, fill the screen, and so much more via [extensions](https://www.popclip.app/extensions/).*
 - [Soulver](https://soulver.app/)
