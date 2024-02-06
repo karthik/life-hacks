@@ -25,6 +25,8 @@
 	- *This is a bit old school but I can use existing widgets (or write my own) and place lots of information directly onto my Desktop wallpaper.* 
 - [Gestimer](https://maddin.io/gestimer/)
 	- *It’s a neat little timer. If I need to timebox, I drag it down for the desired time and just focus. Often I forget the timer going off and just get into a flow state (which to me is a win).*
+- [Hazeover](https://hazeover.com/)
+	- A nice distraction dimmer. When I’m focused on a window, it dims the rest of my screen. 
 
 
 ## Web services
