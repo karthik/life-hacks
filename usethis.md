@@ -6,7 +6,7 @@
 
 ## Mac Only
 - [Fantastical](https://flexibits.com/fantastical)
-	- *My calendar software of choice. Mac/iOS Only. The calendars still come from my various GSuites, but I get to group them and turn them off as needed (vacation/work), propose times, and use natural language to set up appointments. Time to leave (for real-world meetings) is a great little addition* 
+	- *My calendar software of choice. Mac/iOS Only. The calendars still come from my various GSuites, but I get to group them and turn them off as needed (vacation/work), propose times, and use natural language to set up appointments. Time to leave (for real-world meetings) is a great little addition. [video](https://www.youtube.com/watch?v=wjzfHh5ItI8)* 
 - [Things](https://culturedcode.com/things/)
 	- *I’ve used it for a very long time and it is my second brain for tasks. It doesn’t allow for collaboration (which is a deal breaker for many) but for solo use, it is lovely.*
 - [Hazel](https://www.noodlesoft.com/)
