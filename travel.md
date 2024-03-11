@@ -61,7 +61,7 @@ In the past, I would grab sim cards at airports. I no longer do that. I keep my 
 ### Apps & Services
 
 * [TripIt Pro](https://www.tripit.com/pro) Sadly in 2022, there isn’t a good alternative to TripIt. The app feels abandoned but there is no better way to collate all travel plans in one place. I still use it but have turned off all notifications as I find their travel updates very slow and useless (more on this below).
-* [Flighty](https://www.flightyapp.com/) has replaced the TripIt gate and schedule notifications completely. It’s expensive but the UI is amazing, notifications are blazing fast, and it has so much more information, like tracking the aircraft 25 hours before departure, on-time stats, and more. The live activities feature is amazing.
+* [Flighty](https://www.flightyapp.com/) has replaced the TripIt gate and schedule notifications completely. It’s expensive but the UI is amazing, notifications are blazing fast, and it has so much more information, like tracking the aircraft 25 hours before departure, on-time stats, and more. The live activities feature is amazing _(update: United does this now, but this is still nicer)._
 
 ![](https://i.imgur.com/AQfQYg3.jpg)
 
