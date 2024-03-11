@@ -52,7 +52,7 @@ I keep everything in a [Electronic Dopp Kit](https://www.amazon.com/SOG-Organize
 
 
 #### Air Tags
-I have AirTags hidden in all of my bags. [Moment AirTag holders](https://www.shopmoment.com/airtags) are really nice to mount in hard-to-find spots. My home is a significant location so it doesn’t alert me when I leave things behind here, but it will when I travel. 
+I have AirTags hidden in all of my bags. [Elevation Lab AirTag holders](https://www.amazon.com/gp/product/B0B8F5XGSF/) are really nice to mount in hard-to-find spots. My home is a significant location so it doesn’t alert me when I leave things behind here, but it will when I travel. 
 
 ### SIM cards
 
