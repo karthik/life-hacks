@@ -56,7 +56,7 @@ I have AirTags hidden in all of my bags. [Elevation Lab AirTag holders](https://
 
 ### SIM cards
 
-In the past, I would grab sim cards at airports. I no longer do that. I keep my Verzion travel plan on as I need to stay in touch with family. I also grab a country-specific [eSim](https://www.airalo.com/) for data, which has now become so easy. Airalo now has an app to make this even easier.
+In the past, I would grab sim cards at airports. I no longer do that. I keep my Verzion travel plan on as I need to stay in touch with family. I also grab a country-specific [eSim](https://ref.airalo.com/Wx86) for data, which has now become so easy. Airalo now has an app to make this even easier.
 
 ### Apps & Services
 
