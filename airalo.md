@@ -26,7 +26,7 @@ Follow these step-by-step instructions to use [Airalo](https://ref.airalo.com/Wx
 
 1. After landing and exiting airplane mode, your Airalo eSIM should automatically connect. If not, try toggling airplane mode.
 2. When connected to Wi-Fi, confirm your Verizon line says "Verizon Wi-Fi" in the control panel before making Wi-Fi calls/texts.
-3. When not on Wi-Fi, don't answer incoming calls or make outgoing calls/SMS on your Verizon line. Instead, use data messaging apps like WhatsApp, Facebook Messenger, Google Voice, or iMessage.
+3. When not on Wi-Fi, **don't answer incoming calls or make outgoing calls/SMS on your Verizon line**. It will immediately trigger a $10 travel pass. Instead, use data messaging apps like WhatsApp, Facebook Messenger, Google Voice, or iMessage.
 
 By following these steps, you should avoid Verizon roaming charges. Turning off data roaming will prevent Verizon data roaming, but you will still receive calls and texts on your Verizon line. Just don't answer calls, make outgoing calls, or send SMS texts unless your Verizon line is in Wi-Fi Calling mode.
 
