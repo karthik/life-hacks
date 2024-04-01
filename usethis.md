@@ -7,7 +7,9 @@
 ## Mac Only
 - [Fantastical](https://flexibits.com/fantastical)
 	- *My calendar software of choice. Mac/iOS Only. The calendars still come from my various GSuites, but I get to group them and turn them off as needed (vacation/work), propose times, and use natural language to set up appointments. Time to leave (for real-world meetings) is a great little addition. [video](https://www.youtube.com/watch?v=wjzfHh5ItI8)* 
-- [Things](https://culturedcode.com/things/)
+- [TextSniper]()
+- [Things](httphttps://textsniper.app/s://culturedcode.com/things/)
+	- *This app grabs text from anywhere (images, videos, and loads of other places). I use it throughout the day. Unusual use cases include getting a text message 2FA and I can grab the code without opening the message.*
 	- *I’ve used it for a very long time and it is my second brain for tasks. It doesn’t allow for collaboration (which is a deal breaker for many) but for solo use, it is lovely.*
 - [Hazel](https://www.noodlesoft.com/)
 	- *A tool that runs in the background and automatically cleans up folders. I’ve used this for over a decade and often forget that it still runs silently behind the scenes. It can clean up your downloads folder, delete old install binaries, organize your Desktop, and so much more via custom recipes. e.g. If there is a file in my Desktop that I haven’t opened in two weeks, move it to my archives and put it in a folder called year-month. If I have an academic pdf in my Downloads folder that I haven’t opened in a while, move it to a folder called academic-pdfs*
