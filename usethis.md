@@ -11,6 +11,8 @@
 	- *This app grabs text from anywhere (images, videos, and loads of other places). I use it throughout the day. Unusual use cases include getting a text message 2FA and I can grab the code without opening the message.*
 - [Things](https://culturedcode.com/things/) 
 	- *I’ve used it for a very long time and it is my second brain for tasks. It doesn’t allow for collaboration (which is a deal breaker for many) but for solo use, it is lovely.*
+- [Reeder](https://reederapp.com/)
+	- *This has been my RSS reader of choice for many many years. I use FeedBin ($20/year) to aggregate all my feeds.*
 - [Hazel](https://www.noodlesoft.com/)
 	- *A tool that runs in the background and automatically cleans up folders. I’ve used this for over a decade and often forget that it still runs silently behind the scenes. It can clean up your downloads folder, delete old install binaries, organize your Desktop, and so much more via custom recipes. e.g. If there is a file in my Desktop that I haven’t opened in two weeks, move it to my archives and put it in a folder called year-month. If I have an academic pdf in my Downloads folder that I haven’t opened in a while, move it to a folder called academic-pdfs*
 - [Pop Clip](https://www.popclip.app/)
