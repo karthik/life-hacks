@@ -37,6 +37,7 @@
 
 ## Web services
 
+- [Airtable](https://airtable.com/invite/r/fheFFWzD) has become a big part of my work again (April 2024).  I am totally sold on all of the automations and integrations.
 - [Sanebox](https://www.sanebox.com/signup/2e1701f091/c)  
 	*I've used this for 8 years. It automaticaly sorts all my email and only leaves really important ones in my inbox. Rest are sorted into various buckets (later, bulk, news and blackhole). The best feature is blackhole. Hard to unsubscribe emails can be placed in this bucket and you'll never hear from that sender again*
 - [Otter.ai](https://otter.ai/referrals/A7P6BNK3)
