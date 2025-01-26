@@ -52,16 +52,16 @@ I keep everything in a [Electronic Dopp Kit](https://www.amazon.com/SOG-Organize
 
 
 #### Air Tags
-I have AirTags hidden in all of my bags. [Moment AirTag holders](https://www.shopmoment.com/airtags) are really nice to mount in hard-to-find spots. My home is a significant location so it doesn’t alert me when I leave things behind here, but it will when I travel. 
+I have AirTags hidden in all of my bags. [Elevation Lab AirTag holders](https://www.amazon.com/gp/product/B0B8F5XGSF/) are really nice to mount in hard-to-find spots. My home is a significant location so it doesn’t alert me when I leave things behind here, but it will when I travel. 
 
 ### SIM cards
 
-In the past, I would grab sim cards at airports. I no longer do that. I keep my Verzion travel plan on as I need to stay in touch with family. I also grab a country-specific [eSim](https://www.airalo.com/) for data, which has now become so easy. Airalo now has an app to make this even easier.
+In the past, I would grab sim cards at airports. I no longer do that. I keep my Verzion travel plan on as I need to stay in touch with family. I also grab a country-specific [eSim](https://ref.airalo.com/Wx86) for data, which has now become so easy. Airalo now has an app to make this even easier. I've written [detailed instructions](airalo.md) on how to keep your phone number and receive calls/text messages without triggering a Verizon travel pass/IDP.
 
 ### Apps & Services
 
 * [TripIt Pro](https://www.tripit.com/pro) Sadly in 2022, there isn’t a good alternative to TripIt. The app feels abandoned but there is no better way to collate all travel plans in one place. I still use it but have turned off all notifications as I find their travel updates very slow and useless (more on this below).
-* [Flighty](https://www.flightyapp.com/) has replaced the TripIt gate and schedule notifications completely. It’s expensive but the UI is amazing, notifications are blazing fast, and it has so much more information, like tracking the aircraft 25 hours before departure, on-time stats, and more. The live activities feature is amazing.
+* [Flighty](https://www.flightyapp.com/) has replaced the TripIt gate and schedule notifications completely. It’s expensive but the UI is amazing, notifications are blazing fast, and it has so much more information, like tracking the aircraft 25 hours before departure, on-time stats, and more. The live activities feature is amazing _(update: United does this now, but this is still nicer)._
 
 ![](https://i.imgur.com/AQfQYg3.jpg)
 
@@ -75,6 +75,7 @@ In the past, I would grab sim cards at airports. I no longer do that. I keep my 
 
 ## Misc Best Practices
 
-- **First Aid**: Keep a small first aid kit in your pack. In addition to regular first aid, I stock mine with travel-sized refills of the [most common medications](https://www.rescue-essentials.com/medications-unit-dose-pack/), Advil, Tylenol, Zyrtec, and Benadryl (all in branded, sealed, single-use packets). I’ve spent a lot of time looking for a pharmacy at odd hours in random countries and still failed to find the right meds. I now keep a small laminated checklist and top off this kit before each trip.
+
+- **First Aid**: Keep a small first aid kit in your pack. In addition to regular first aid, I stock mine with travel-sized refills of the [most common medications](https://www.rescue-essentials.com/medications-unit-dose-pack/), Advil, Tylenol, Zyrtec, and Benadryl. I’ve spent a lot of time looking for a pharmacy at odd hours in random countries and still failed to find the right meds. I now keep a small laminated checklist and top off this kit before each trip.
 - **A second wallet**: Hidden in my pack is always a second wallet with an alternate ID, credit + debit card, and some cash.
 - **A quick map of relevant locations**: Before I travel I make sure to mark my hotels on a Google map for $city and save that to a list named after the city. I take a couple more minutes to quickly find the nearest emergency room (only for international trips), pharmacy, and healthy grocery store and save those. You’ll be surprised at how handy this turns out to be. When you’re walking around your hotel/the city and want to grab some water/food/drinks/snacks, you’ll know where to go instead of trying to research spots while standing on a street corner. This doesn’t have to be an extensive, serendipity-killing process.

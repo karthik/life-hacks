@@ -7,8 +7,12 @@
 ## Mac Only
 - [Fantastical](https://flexibits.com/fantastical)
 	- *My calendar software of choice. Mac/iOS Only. The calendars still come from my various GSuites, but I get to group them and turn them off as needed (vacation/work), propose times, and use natural language to set up appointments. Time to leave (for real-world meetings) is a great little addition. [video](https://www.youtube.com/watch?v=wjzfHh5ItI8)* 
-- [Things](https://culturedcode.com/things/)
+- [TextSniper](https://textsniper.app/)
+	- *This app grabs text from anywhere (images, videos, and loads of other places). I use it throughout the day. Unusual use cases include getting a text message 2FA and I can grab the code without opening the message.*
+- [Things](https://culturedcode.com/things/) 
 	- *I’ve used it for a very long time and it is my second brain for tasks. It doesn’t allow for collaboration (which is a deal breaker for many) but for solo use, it is lovely.*
+- [Reeder](https://reederapp.com/)
+	- *This has been my RSS reader of choice for many many years. I use FeedBin ($20/year) to aggregate all my feeds.*
 - [Hazel](https://www.noodlesoft.com/)
 	- *A tool that runs in the background and automatically cleans up folders. I’ve used this for over a decade and often forget that it still runs silently behind the scenes. It can clean up your downloads folder, delete old install binaries, organize your Desktop, and so much more via custom recipes. e.g. If there is a file in my Desktop that I haven’t opened in two weeks, move it to my archives and put it in a folder called year-month. If I have an academic pdf in my Downloads folder that I haven’t opened in a while, move it to a folder called academic-pdfs*
 - [Pop Clip](https://www.popclip.app/)
@@ -20,7 +24,7 @@
 - [Bartender](https://www.macbartender.com/)
 	- *Keeps your menubar clutter-free.* 
 - [Fuzzytime](https://marcusolovsson.com/fuzzytime/)
-	- *The menubar clock feels a lot less intimidating. I get reminders for meetings so I don’t always want to know the exact time.* 
+	- *The menubar clock feels a lot less intimidating. I get reminders for meetings so I don’t always want to know the exact time. The [clock on my desk also follows a similar philosophy](day_clock.gif)* 
 - [Übersicht](https://tracesof.net/uebersicht/)
 	- *This is a bit old school but I can use existing widgets (or write my own) and place lots of information directly onto my Desktop wallpaper.* 
 - [Gestimer](https://maddin.io/gestimer/)
@@ -33,6 +37,9 @@
 
 ## Web services
 
+- [Airtable](https://airtable.com/invite/r/fheFFWzD) has become a big part of my work again (April 2024).  I am totally sold on all of the automations and integrations.
+- [Sanebox](https://www.sanebox.com/signup/2e1701f091/c)  
+	*I've used this for 8 years. It automaticaly sorts all my email and only leaves really important ones in my inbox. Rest are sorted into various buckets (later, bulk, news and blackhole). The best feature is blackhole. Hard to unsubscribe emails can be placed in this bucket and you'll never hear from that sender again*
 - [Otter.ai](https://otter.ai/referrals/A7P6BNK3)
 	- *I use it to transcribe calls so I can reference materials later. While [Whisper](https://goodsnooze.gumroad.com/l/macwhisper) can run locally for a lot less, just the bookkeeping and import makes Otter a better option for the time being.*
 - [Speechify](https://share.speechify.com/mzsrAvQ)
@@ -40,3 +47,4 @@
 - [Pinboard](https://pinboard.in)
 	- *I’ve used it as my bookmarking service for 14+ years. Everything I want to save is tagged and I can bookmark from anywhere. It’s just a one-time cost.* 
 	- *I used to pay for archival bookmarking (for an annual fee, Pinboard can download and store a copy of every page you bookmark, for your own private use. and enable full-text search). I may start this part back up.* 
+	
